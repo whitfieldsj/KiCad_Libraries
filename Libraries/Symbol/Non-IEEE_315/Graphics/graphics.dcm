@@ -1,0 +1,466 @@
+EESchema-DOCLIB  Version 2.0  Date: 15/12/2013 10:23:02
+#
+$CMP AR-AMP
+D Amplifier
+K Amplifier
+$ENDCMP
+#
+$CMP AT-OPTOISOL
+D Opto-Isolator
+K Opto-Isolator
+$ENDCMP
+#
+$CMP D-RECTIFIER
+D Rectifier Diode
+K Rectifier Diode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-rectifierDiodes.ods
+$ENDCMP
+#
+$CMP D-ZENER
+D Zener Diode
+K Zener Diode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-zenerDiodes.ods
+$ENDCMP
+#
+$CMP DS-LED
+D Light-Emitting Diode
+K Light-Emitting Diode LED
+$ENDCMP
+#
+$CMP PS-BR
+D Full-Wave Bridge Rectifier
+K Full-Wave Bridge Rectifier
+F G:/ApplicationFiles/KiCad/Documents/DataTables/PS-bridgeRectifiers.ods
+$ENDCMP
+#
+$CMP PS-DCDC
+D DC/DC Converter
+K DC/DC Converter
+$ENDCMP
+#
+$CMP PS-INVERTER
+D Inverter
+K Inverter
+$ENDCMP
+#
+$CMP PS-POWER_SUPPLY
+D Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP PS-RECTIFIER
+D Rectifier
+K Rectifier
+$ENDCMP
+#
+$CMP Q-AGT
+D Anode Gate Thyristor (AGT)
+K AGT Anode Gate Thyristor
+$ENDCMP
+#
+$CMP Q-JFET-N
+D N-Channel JFET Transistor
+K N-Channel JFET Transistor
+$ENDCMP
+#
+$CMP Q-JFET-P
+D P-Channel JFET Transistor
+K P-Channel JFET Transistor
+$ENDCMP
+#
+$CMP Q-NPN
+D Bipolar NPN Transistor
+K Bipolar NPN Transistor
+$ENDCMP
+#
+$CMP Q-PNP
+D Bipolar PNP Transistor
+K Bipolar PNP Transistor
+$ENDCMP
+#
+$CMP Q-SCS
+D Silicon Controlled Switch (SCS)
+K SCS Silicon Controlled Switch
+$ENDCMP
+#
+$CMP R-Resistor
+D Fixed Resistor
+K Resistor
+$ENDCMP
+#
+$CMP S-Push_Switch
+D Push Button Make Contact, Automatic Return
+K Push Button Make Contact Automatic Return
+$ENDCMP
+#
+$CMP S-SPST
+D Single Pole, Single Throw Switch, Make Contact
+K Single Pole Single Throw SPST Make Contact
+$ENDCMP
+#
+$CMP T-TRANS
+D Transformer with Magnetic Core
+K Transformer Magnetic Core
+$ENDCMP
+#
+$CMP TERMINAL_IN
+D Input Terminal
+K Input Terminal
+$ENDCMP
+#
+$CMP TERMINAL_OUT
+D Output Terminal
+K Output Terminal
+$ENDCMP
+#
+$CMP U-(DE)MUX
+D Mux/DeMux
+K Mux DeMux
+$ENDCMP
+#
+$CMP U-7SEG
+D Single-Digit 7-Segment Display
+K 7-Segment Display
+$ENDCMP
+#
+$CMP U-7SEGX2
+D 2-Digit 7-Segment Display
+K 7-Segment Display
+$ENDCMP
+#
+$CMP U-7SEGX3
+D 3-Digit 7-Segment Display
+K 3-Segment Display
+$ENDCMP
+#
+$CMP U-ADC
+D Analogue to Digital Converter
+K Analogue to Digital Converter ADC
+$ENDCMP
+#
+$CMP U-ADDR
+D Binary Adder
+K Binary Adder
+$ENDCMP
+#
+$CMP U-AND-2
+D 2-Input AND
+K 2-Input AND
+$ENDCMP
+#
+$CMP U-AND-4
+D 4-Input AND
+K 4-Input AND
+$ENDCMP
+#
+$CMP U-AND_IEC-2
+D 2-Input AND Gate
+K 2-Input AND Gate
+$ENDCMP
+#
+$CMP U-AND_IEC-4
+D 4-Input AND Gate
+K 2-Input AND Gate
+$ENDCMP
+#
+$CMP U-BUFF
+D Buffer
+K Buffer
+$ENDCMP
+#
+$CMP U-BUFF-3-STATE_IEC
+D Tri-State Buffer/Transceiver
+K Tri-State Buffer Transceiver
+$ENDCMP
+#
+$CMP U-BUFF_3-STATE
+D Tri-State Buffer/Transceiver
+K Tri-State Buffer Transceiver
+$ENDCMP
+#
+$CMP U-BUFF_IEC
+D Buffer
+K Buffer
+$ENDCMP
+#
+$CMP U-CLK
+D Clock/Oscillator
+K Clock Oscillator
+$ENDCMP
+#
+$CMP U-COMP
+D Comparitor
+K Comparitor
+$ENDCMP
+#
+$CMP U-COMP_DIG
+D Digital Comparator
+K Digital Comparator
+$ENDCMP
+#
+$CMP U-COUNTER
+D Counter
+K Counter
+$ENDCMP
+#
+$CMP U-D_FF
+D D-Type Flip-Flop
+K D-Type Flip-Flop
+$ENDCMP
+#
+$CMP U-DAC
+D Digital to Analogue Converter
+K Digital to Analogue Converter DAC
+$ENDCMP
+#
+$CMP U-DECODER
+D Decoder
+K Decoder
+$ENDCMP
+#
+$CMP U-ENCODER
+D Encoder
+K Encoder
+$ENDCMP
+#
+$CMP U-INV_3-STATE
+D Inverter
+K Inverter
+$ENDCMP
+#
+$CMP U-INV_IEC
+D Buffer
+K Buffer
+$ENDCMP
+#
+$CMP U-INV_NOT
+D Inverter
+K Inverter
+$ENDCMP
+#
+$CMP U-JK_FF
+D J-K Flip-Flop
+K J-K Flip-Flop
+$ENDCMP
+#
+$CMP U-LATCH
+D Latch
+K Latch
+$ENDCMP
+#
+$CMP U-MEMORY
+D Memory
+K Memory
+$ENDCMP
+#
+$CMP U-MICROCONTROLLER
+D Microcontroller
+K Microcontroller
+$ENDCMP
+#
+$CMP U-MICROPROCESSOR
+D Microprocessor
+K Microprocessor
+$ENDCMP
+#
+$CMP U-NAND-13
+D 13-Input NAND
+K 13-Input NAND
+$ENDCMP
+#
+$CMP U-NAND-2
+D 2-Input NAND
+K 2-Input NAND
+$ENDCMP
+#
+$CMP U-NAND-3
+D 2-Input NAND
+K 2-Input NAND
+$ENDCMP
+#
+$CMP U-NAND-4
+D 4-Input NAND
+K 4-Input NAND
+$ENDCMP
+#
+$CMP U-NAND-8
+D 8-Input NAND
+K 8-Input NAND
+$ENDCMP
+#
+$CMP U-NAND_IEC-13
+D 13-Input NAND Gate
+K 13-Input NAND Gate
+$ENDCMP
+#
+$CMP U-NAND_IEC-2
+D 2-Input NAND Gate
+K 2-Input NAND Gate
+$ENDCMP
+#
+$CMP U-NAND_IEC-3
+D 3-Input NAND Gate
+K 3-Input NAND Gate
+$ENDCMP
+#
+$CMP U-NAND_IEC-4
+D 4-Input NAND Gate
+K 4-Input NAND Gate
+$ENDCMP
+#
+$CMP U-NAND_IEC-8
+D 8-Input NAND Gate
+K 8-Input NAND Gate
+$ENDCMP
+#
+$CMP U-NOR-2
+D 2-Input NOR
+K 2-Input NOR
+$ENDCMP
+#
+$CMP U-NOR-3
+D 3-Input NOR
+K 3-Input NOR
+$ENDCMP
+#
+$CMP U-NOR-4
+D 4-Input NOR
+K 4-Input NOR
+$ENDCMP
+#
+$CMP U-NOR-5
+D 5-Input NOR
+K 5-Input NOR
+$ENDCMP
+#
+$CMP U-NOR_IEC-2
+D 2-Input NOR Gate
+K 2-Input NOR Gate
+$ENDCMP
+#
+$CMP U-NOR_IEC-3
+D 3-Input NOR Gate
+K 3-Input NOR Gate
+$ENDCMP
+#
+$CMP U-NOR_IEC-4
+D 4-Input NOR Gate
+K 4-Input NOR Gate
+$ENDCMP
+#
+$CMP U-NOR_IEC-5
+D 5-Input NOR Gate
+K 5-Input NOR Gate
+$ENDCMP
+#
+$CMP U-OPAMP
+D Operational Amplifier
+K Operational Amplifier
+$ENDCMP
+#
+$CMP U-OR-2
+D 2-Input OR
+K 2-Input OR
+$ENDCMP
+#
+$CMP U-OR-4
+D 4-Input OR
+K 4-Input OR
+$ENDCMP
+#
+$CMP U-OR_IEC-2
+D 2-Input OR Gate
+K 2-Input OR Gate
+$ENDCMP
+#
+$CMP U-OR_IEC-4
+D 4-Input OR Gate
+K 4-Input OR Gate
+$ENDCMP
+#
+$CMP U-REGISTER
+D Shift Register
+K Shift Register
+$ENDCMP
+#
+$CMP U-REGULATOR
+D Voltage Regulator
+K Voltage Regulator
+$ENDCMP
+#
+$CMP U-SR_FF
+D S-R Flip-Flop
+K S-R Flip-Flop
+$ENDCMP
+#
+$CMP U-SR_LATCH
+D S-R Latch
+K S-R Latch
+$ENDCMP
+#
+$CMP U-SR_LATCH_E
+D Enabled S-R Latch
+K Enabled S-R Latch
+$ENDCMP
+#
+$CMP U-VCO
+D Voltage Controlled Oscillator
+K Voltage Controlled Oscillator VCO
+$ENDCMP
+#
+$CMP U-XNOR-2
+D 2-Input XNOR
+K 2-Input XNOR
+$ENDCMP
+#
+$CMP U-XNOR_IEC-2
+D 2-Input XNOR Gate
+K 2-Input XNOR Gate
+$ENDCMP
+#
+$CMP U-XOR-2
+D 2-Input XOR
+K 2-Input XOR
+$ENDCMP
+#
+$CMP U-XOR_IEC-2
+D 2-Input XOR Gate
+K 2-Input XOR Gate
+$ENDCMP
+#
+$CMP Z-Generic_1D
+D Generic Box 1xDown
+K Generic Box 1xDown
+$ENDCMP
+#
+$CMP Z-Generic_1L
+D Generic Box 1xLeft
+K Generic Box 1xLeft
+$ENDCMP
+#
+$CMP Z-Generic_1R
+D Generic Box 1xRight
+K Generic Box 1xRight
+$ENDCMP
+#
+$CMP Z-Generic_1U
+D Generic Box 1xUp
+K Generic Box 1xUp
+$ENDCMP
+#
+$CMP Z-Generic_2
+D Generic Box 2xInput
+K Generic Box 2xInput
+$ENDCMP
+#
+$CMP Z-Generic_3
+D Generic Box 3xInput
+K Generic Box 3xInput
+$ENDCMP
+#
+$CMP Z-Generic_4
+D Generic Box 4xInput
+K Generic Box 4xInput
+$ENDCMP
+#
+#End Doc Library
