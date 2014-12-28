@@ -1,0 +1,118 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1.8V
+D +1.8 V Power Pin
+K +1.8 V Power Pin
+$ENDCMP
+#
+$CMP +12V
+D +12 V Power Pin
+K +12 V Power Pin
+$ENDCMP
+#
+$CMP +2.5V
+D +2.5 V Power Pin
+K +2.5 V Power Pin
+$ENDCMP
+#
+$CMP +240VAC
+D +240 V Power Pin AC
+K +240 V Power Pin AC
+$ENDCMP
+#
+$CMP +24V
+D +24 V Power Pin
+K +24 V Power Pin
+$ENDCMP
+#
+$CMP +3.3V
+D +3.3 V Power Pin
+K +3.3 V Power Pin
+$ENDCMP
+#
+$CMP +5V
+D +5 V Power Pin
+K +5 V Power Pin
+$ENDCMP
+#
+$CMP +Vin
+D Positive Power Pin
+K Positive Power Pin
+$ENDCMP
+#
+$CMP -1.8V
+D -1.8 V Power Pin
+K -1.8 V Power Pin
+$ENDCMP
+#
+$CMP -12V
+D -12 V Power Pin
+K -12 V Power Pin
+$ENDCMP
+#
+$CMP -2.5V
+D -2.5 V Power Pin
+K -2.5 V Power Pin
+$ENDCMP
+#
+$CMP -240VAC
+D -240 V Power Pin AC
+K -240 V Power Pin AC
+$ENDCMP
+#
+$CMP -24V
+D -24 V Power Pin
+K -24 V Power Pin
+$ENDCMP
+#
+$CMP -3.3V
+D -3.3 V Power Pin
+K -3.3 V Power Pin
+$ENDCMP
+#
+$CMP -5V
+D -5 V Power Pin
+K -5 V Power Pin
+$ENDCMP
+#
+$CMP -Vin
+D Negative Power Pin
+K Negative Power Pin
+$ENDCMP
+#
+$CMP AGND
+D Analogue Ground Power Pin (GND)
+K Analogue Ground Power Pin GND
+$ENDCMP
+#
+$CMP Chassis
+D Chassis Ground Power Pin (GND)
+K Chassis Ground Power Pin GND
+$ENDCMP
+#
+$CMP DGND
+D Digital Ground Power Pin (GND)
+K Digital Ground Power Pin GND
+$ENDCMP
+#
+$CMP GND
+D Ground Power Pin (GND)
+K Ground Power Pin GND
+$ENDCMP
+#
+$CMP LNGND
+D Low Noise Ground Power Pin (GND)
+K Low Noise Ground Power Pin GND
+$ENDCMP
+#
+$CMP PGND
+D Protective Ground Power Pin (GND)
+K Protective Ground Power Pin GND
+$ENDCMP
+#
+$CMP PWR
+D Power Flag
+K Power Flag
+$ENDCMP
+#
+#End Doc Library
