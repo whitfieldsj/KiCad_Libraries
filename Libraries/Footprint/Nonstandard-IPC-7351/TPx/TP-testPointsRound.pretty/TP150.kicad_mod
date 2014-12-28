@@ -1,0 +1,12 @@
+(module TP150 (layer F.Cu)
+  (descr "Test Point, Round, 1.50mm")
+  (clearance 0.2)
+  (attr smd)
+  (fp_text reference TP? (at 0 -1.30048) (layer Dwgs.User) hide
+    (effects (font (size 0.254 0.254) (thickness 0.0254)))
+  )
+  (fp_text value TP150 (at 0 1.39954) (layer Dwgs.User) hide
+    (effects (font (size 0.254 0.254) (thickness 0.0254)))
+  )
+  (pad 1 smd circle (at 0 0) (size 1.5 1.5) (layers F.Cu F.Paste F.Mask))
+)

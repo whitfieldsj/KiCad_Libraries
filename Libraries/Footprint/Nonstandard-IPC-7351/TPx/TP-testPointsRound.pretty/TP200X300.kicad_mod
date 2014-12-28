@@ -1,0 +1,12 @@
+(module TP200X300 (layer F.Cu)
+  (descr "Test Point, Rectangular, 2.00mm x 3.00mm")
+  (clearance 0.2)
+  (attr smd)
+  (fp_text reference TP? (at 0 -1.50114) (layer Dwgs.User) hide
+    (effects (font (size 0.254 0.254) (thickness 0.0254)))
+  )
+  (fp_text value TP200X300 (at 0 1.50114) (layer Dwgs.User) hide
+    (effects (font (size 0.254 0.254) (thickness 0.0254)))
+  )
+  (pad 1 smd rect (at 0 0) (size 3 2) (layers F.Cu F.Paste F.Mask))
+)
