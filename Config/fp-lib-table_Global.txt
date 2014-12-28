@@ -297,6 +297,9 @@
   (lib (name SMD_CONN_RF_HIROSE)(type KiCad)(uri ${KISYSMOD}\Nonstandard-IPC-7351\CONN\CONN-RFConnectorsHirose.pretty)(options "")(descr ""))
   (lib (name SMD_CONN_RF_MOLEX)(type KiCad)(uri ${KISYSMOD}\Nonstandard-IPC-7351\CONN\CONN-RFConnectorsMolex.pretty)(options "")(descr ""))
 # Logos  
+  (lib (name LOGO_xirconix-Copper)(type Legacy)(uri ${KISYSMOD}\Nonstandard-IPC-7x51\Logo\xirconixLogoCopper.mod)(options "")(descr "xirconix Logo, Copper Layer"))
+  (lib (name LOGO_xirconix-Silkscreen)(type Legacy)(uri ${KISYSMOD}\Nonstandard-IPC-7x51\Logo\xirconixLogoSilkscreen.mod)(options "")(descr "xirconix Logo, Silkscreen Layer"))
+  (lib (name LOGO_xirconix-Drawings)(type Legacy)(uri ${KISYSMOD}\Nonstandard-IPC-7x51\Logo\xirconixLogoDrawings.mod)(options "")(descr "xirconix Logo, Drawings Layer"))
   (lib (name LOGO_Misc-Copper)(type Legacy)(uri ${KISYSMOD}\Nonstandard-IPC-7x51\Logo\miscLogoCopper.mod)(options "")(descr "Miscellaneous Logos, Copper Layer"))
   (lib (name LOGO_Misc-Silkscreen)(type Legacy)(uri ${KISYSMOD}\Nonstandard-IPC-7x51\Logo\miscLogoSilkscreen.mod)(options "")(descr "Miscellaneous Logos, Silkscreen Layer"))
   (lib (name LOGO_Misc-Drawings)(type Legacy)(uri ${KISYSMOD}\Nonstandard-IPC-7x51\Logo\miscLogoDrawings.mod)(options "")(descr "Miscellaneous Logos, Drawings Layer"))  
