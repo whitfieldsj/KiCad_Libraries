@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Relay_Pol_SPST
+D Polarized Relay, SPST
+K Polarized Relay SPST
+$ENDCMP
+#
+$CMP Relay_Pol_SR
+D Polarized Relay, Self-Restoring
+K Polarized Relay Self-Restoring
+$ENDCMP
+#
+$CMP Relay_SPST
+D Standard Relay, SPST
+K Standard Relay SPST
+$ENDCMP
+#
+$CMP Relay_SPST_AC
+D Relay, SPST, AC
+K Relay SPST AC
+$ENDCMP
+#
+$CMP Relay_SPST_HS
+D Relay, SPST, High Speed
+K Relay SPST High Speed
+$ENDCMP
+#
+$CMP Relay_SR
+D Standard Relay, Self-Restoring
+K Standard Relay Self-Restoring
+$ENDCMP
+#
+$CMP Relay_SR_AC
+D Relay, Self-Restoring, AC
+K Relay Self-Restoring AC
+$ENDCMP
+#
+$CMP Relay_SR_HS
+D Relay, Self-Restoring, High Speed
+K Relay Self-Restoring High Speed
+$ENDCMP
+#
+#End Doc Library

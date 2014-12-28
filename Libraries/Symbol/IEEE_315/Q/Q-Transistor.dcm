@@ -1,0 +1,159 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BIPOL_NPN_BC2E_1234
+D Bipolar Dual-Emitter NPN Transistor
+K Bipolar Dual-Emitter NPN Transistor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_NPN_BCE_123
+D Bipolar NPN Transistor, Pin Configuration B(1) C(2) E(3)
+K Bipolar NPN Transistor BCE 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_NPN_BEC_123
+D Bipolar NPN Transistor, Pin Configuration B(1) E(2) C(3)
+K Bipolar NPN Transistor BEC 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_NPN_CBE_123
+D Bipolar NPN Transistor, Pin Configuration C(1) B(2) E(3)
+K Bipolar NPN Transistor CBE 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_NPN_CEB_123
+D Bipolar NPN Transistor, Pin Configuration C(1) E(2) B(3)
+K Bipolar NPN Transistor CEB 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_NPN_EBC_123
+D Bipolar NPN Transistor, Pin Configuration E(1) B(2) C(3)
+K Bipolar NPN Transistor EBC 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_NPN_ECB_123
+D Bipolar NPN Transistor, Pin Configuration E(1) C(2) B(3)
+K Bipolar NPN Transistor ECB 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_PNP_BC2E_1234
+D Bipolar Dual-Emitter PNP Transistor
+K Bipolar Dual-Emitter PNP Transistor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_PNP_BCE_123
+D Bipolar PNP Transistor, Pin Configuration B(1) C(2) E(3)
+K Bipolar PNP Transistor BCE 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_PNP_BEC_123
+D Bipolar PNP Transistor, Pin Configuration B(1) E(2) C(3)
+K Bipolar PNP Transistor BEC 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_PNP_CBE_123
+D Bipolar PNP Transistor, Pin Configuration C(1) B(2) E(3)
+K Bipolar PNP Transistor CBE 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_PNP_CEB_123
+D Bipolar PNP Transistor, Pin Configuration C(1) E(2) B(3)
+K Bipolar PNP Transistor CEB 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_PNP_EBC_123
+D Bipolar PNP Transistor, Pin Configuration B(1) B(2) C(3)
+K Bipolar PNP Transistor EBC 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP BIPOL_PNP_ECB_123
+D Bipolar PNP Transistor, Pin Configuration E(1) C(2) B(3)
+K Bipolar PNP Transistor ECB 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsBiPolar.ods
+$ENDCMP
+#
+$CMP DARL_BIPOL_NPN_BCE_123
+D Darlington Transistor, NPN, Pin Configuration B(1) C(2) E(3)
+K Darlington Transistor BCE 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsDarlington.ods
+$ENDCMP
+#
+$CMP IGBT-NPN_GCE_123
+D IGBT-NPN Hybrid Transistor Pin Configuration G(1) C(2) E(3)
+K IGBT-NPN Hybrid Transistor GCE 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsIGBT.ods
+$ENDCMP
+#
+$CMP IGBT-PNP_GCE_123
+D IGBT-PNP Hybrid Transistor, Pin Configuration G(1) C(2) E(3)
+K IGBT-PNP Hybrid Transistor GCE 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsIGBT.ods
+$ENDCMP
+#
+$CMP IGBT_N_GCE_123
+D N-Channel IGBT Hybrid Transistor, Pin Configuration G(1) C(2) E(3)
+K N-Channel IGBT Hybrid Transistor GCE 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsIGBT.ods
+$ENDCMP
+#
+$CMP IGBT_P_GCE_123
+D P-Channel IGBT Hybrid Transistor, Pin Configuration G(1) C(2) E(3)
+K P-Channel IGBT Hybrid Transistor GCE 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsIGBT.ods
+$ENDCMP
+#
+$CMP JFET_N_GSD_123
+D N-Channel JFET Transistor, Pin Configuration G(1) S(2) D(3)
+K N-Channel JFET Transistor GSD 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsJFET.ods
+$ENDCMP
+#
+$CMP JFET_P_GSD_123
+D P-Channel JFET Transistor, Pin Configuration G(1) S(2) D(3)
+K P-Channel JFET Transistor GSD 123
+F G:/ApplicationFiles/KiCad/Documents/DataTables/Q-transistorsJFET.ods
+$ENDCMP
+#
+$CMP MOS_Nd_GSD_123
+D N-Channel Depletion MOS Transistor, Pin Configuration G(1) S(2) D(3)
+K N-Channel Depletion MOS Transistor GSD 123
+$ENDCMP
+#
+$CMP MOS_Ne_GSD_123
+D N-Channel Enhancement MOS Transistor, Pin Configuration G(1) S(2) D(3)
+K N-Channel Enhancement MOS Transistor GSD 123
+$ENDCMP
+#
+$CMP MOS_Pd_GSD_123
+D P-Channel Depletion MOS Transistor, Pin Configuration G(1) S(2) D(3)
+K P-Channel Depletion MOS Transistor GSD 123
+$ENDCMP
+#
+$CMP MOS_Pe_GSD_123
+D P-Channel Enhancement MOS Transistor, Pin Configuration G(1) S(2) D(3)
+K P-Channel Enhancement MOS Transistor GSD 123
+$ENDCMP
+#
+$CMP PHOTO_NPN_CE_12
+D Bipolar Photo NPN Transistor
+K Bipolar Photo NPN Transistor
+$ENDCMP
+#
+$CMP PHOTO_PNP_CE_12
+D Bipolar Photo PNP Transistor
+K Bipolar Photo PNP Transistor
+$ENDCMP
+#
+#End Doc Library

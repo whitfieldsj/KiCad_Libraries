@@ -1,0 +1,145 @@
+EESchema-DOCLIB  Version 2.0  Date: 02/04/2013 07:21:19
+#
+$CMP 5082-7610
+D Avago 7.6 mm 7-Segment Display Common Anode Left Hand Decimal
+K Avago 7.6 mm 7-Segment Display Common Anode Left Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP 5082-7611
+D Avago 7.6 mm 7-Segment Display Common Anode Right Hand Decimal
+K Avago 7.6 mm 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP 5082-7613
+D Avago 7.6 mm 7-Segment Display Common Cathode Right Hand Decimal
+K Avago 7.6 mm 7-Segment Display Common Cathode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP DUMMY-3XCHARACTER
+D Avago Dummy Shape for 3xCharacter Display
+K Avago Dummy Shape for 3xCharacter Display
+$ENDCMP
+#
+$CMP DUMMY-4XCHARACTER
+D Avago Dummy Shape for 4xCharacter Display
+K Avago Dummy Shape for 4xCharacter Display
+$ENDCMP
+#
+$CMP HDSP-3905
+D Avago 20 mm 7-Segment Display Common Cathode Left Hand Decimal
+K Avago 20 mm 7-Segment Display Common Cathode Left Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-503B
+D Avago 14.2 mm 7-Segment Display Common Cathode Right Hand Decimal
+K Avago 14.2 mm 7-Segment Display Common Cathode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-A101
+D Avago 7.6 mm 7-Segment Display Common Anode Right Hand Decimal
+K Avago 7.6 mm 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-A103
+D Avago 7.6 mm 7-Segment Display Common Cathode Right Hand Decimal
+K Avago 7.6 mm 7-Segment Display Common Cathode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-E150
+D Avago 10 mm 7-Segment Display Common Anode Left Hand Decimal
+K Avago 10 mm 7-Segment Display Common Anode Left Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-E151
+D Avago 10 mm 7-Segment Display Common Anode Right Hand Decimal
+K Avago 10 mm 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-E153
+D Avago 10 mm 7-Segment Display Common Cathode Right Hand Decimal
+K Avago 10 mm 7-Segment Display Common Cathode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-F151
+D Avago 10 mm 7-Segment Display Common Anode Right Hand Decimal
+K Avago 10 mm 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-F153
+D Avago 10 mm 7-Segment Display Common Anode Right Hand Decimal
+K Avago 10 mm 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-G151
+D Avago 10 mm 2-Digit 7-Segment Display Common Anode Right Hand Decimal
+K Avago 10 mm 2-Digit 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-G153
+D Avago 10 mm 2-Digit 7-Segment Display Common Anode Right Hand Decimal
+K Avago 10 mm 2-Digit 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-H401
+D Avago 14.2 mm 7-Segment Display Common Anode Right Hand Decimal
+K Avago 14.2 mm 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-K401
+D Avago 14.2 mm 2-Digit 7-Segment Display Common Anode Right Hand Decimal
+K Avago 14.2 mm 2-Digit 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-K403
+D Avago 14.2 mm 2-Digit 7-Segment Display Common Cathode Right Hand Decimal
+K Avago 14.2 mm 2-Digit 7-Segment Display Common Cathode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-N150
+D Avago 20 mm 7-Segment Display Common Anode Left Hand Decimal
+K Avago 20 mm7-Segment Display Common Anode Left Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-N151
+D Avago 20 mm 7-Segment Display Common Anode Right Hand Decimal
+K Avago 20 mm 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP HDSP-N153
+D Avago 20 mm 7-Segment Display Common Cathode Right Hand Decimal
+K Avago 20 mm 7-Segment Display Common Cathode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP TDSO5150
+D Avago 13 mm 7-Segment Display Common Anode Right Hand Decimal
+K Avago 13 mm 7-Segment Display Common Anode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+$CMP TDSO5160
+D Avago 13 mm 7-Segment Display Common Cathode Right Hand Decimal
+K Avago 13 mm 7-Segment Display Common Cathode Right Hand Decimal
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-sevenSegmentDisplays_Avago.ods
+$ENDCMP
+#
+#End Doc Library

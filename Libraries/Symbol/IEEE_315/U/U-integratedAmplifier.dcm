@@ -1,0 +1,58 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASA
+D Amplifier With Selectable Amplification
+K Amplifier Selectable Amplification
+$ENDCMP
+#
+$CMP DIFF
+D Differential Amplifier
+K Differential Amplifier
+$ENDCMP
+#
+$CMP HG
+D High Gain Amplifier
+K High Gain Amplifier
+$ENDCMP
+#
+$CMP INT
+D Integrating Amplifier
+K Integrating Amplifier Integrator
+$ENDCMP
+#
+$CMP INV
+D Inverting Amplifier
+K Inverting Amplifier
+$ENDCMP
+#
+$CMP ISOL
+D Isolating Amplifier
+K Isolating Amplifier
+$ENDCMP
+#
+$CMP LOG
+D Logarithmic Amplifier
+K Logarithmic Amplifier
+$ENDCMP
+#
+$CMP OpAmp
+D Operational Amplifier
+K Operational Amplifier
+$ENDCMP
+#
+$CMP SH
+D Sample And Hold
+K Amplifier Sample And Hold
+$ENDCMP
+#
+$CMP SUM
+D Summing Amplifier
+K Summing Amplifier
+$ENDCMP
+#
+$CMP UCOMP
+D Voltage Comparator
+K Voltage Comparator
+$ENDCMP
+#
+#End Doc Library

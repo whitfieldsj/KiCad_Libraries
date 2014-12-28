@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Photo_Cell
+#
+DEF ~Photo_Cell BT 0 0 Y Y 1 F N
+F0 "BT" 0 150 40 H V C CNN
+F1 "Photo_Cell" 0 -100 30 H I C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 8 100 60 H V C CNN
+F4 "Value" 0 -100 30 H V C CNN "Unit"
+$FPLIST
+ KEYSTONE*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  0 50  0 -50 N
+P 2 0 1 0  25 25  25 -25 N
+P 2 0 1 0  110 110  60 60 N
+P 2 0 1 0  140 80  90 30 N
+P 4 0 1 0  60 60  70 80  80 70  60 60 N
+P 4 0 1 0  90 30  100 50  110 40  90 30 N
+X + 1 -100 0 100 R 25 25 1 1 w
+X - 2 100 0 75 L 25 25 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library

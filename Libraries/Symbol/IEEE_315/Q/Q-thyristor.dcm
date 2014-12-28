@@ -1,0 +1,68 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AGT_CAG_123
+D Anode Gate Thyristor (AGT)
+K AGT Anode Gate Thyristor
+$ENDCMP
+#
+$CMP AGTO_CAG_123
+D Anode Gate Turn Off Thyristor (AGTO)
+K AGTO Anode Gate Turn Off Thyristor
+$ENDCMP
+#
+$CMP CGT_CAG_123
+D Cathode Gate Thyristor (CGT)
+K CGT Cathode Gate Thyristor
+$ENDCMP
+#
+$CMP CGTO_CAG_123
+D Cathode Gate Turn Off Thyristor (CGTO)
+K CGTO Cathode Gate Turn Off Thyristor
+$ENDCMP
+#
+$CMP DIAC_MM_12
+D DIAC
+K DIAC
+$ENDCMP
+#
+$CMP RBAGT_CAG_123
+D Reverse Blocking Anode Gate Thyristor (RBAGT)
+K RBAGT Reverse Blocking Anode Gate Thyristor
+$ENDCMP
+#
+$CMP RBCGT_CAG_123
+D Reverse Blocking Cathode Gate Thyristor (RBCGT)
+K RBCGT Reverse Blocking Cathode Gate Thyristor
+$ENDCMP
+#
+$CMP RBDT_CA_12
+D Reverse Blocking Diode Thyristor (RBDT)
+K RBDT Reverse Blocking Diode Thyristor 
+$ENDCMP
+#
+$CMP RCAGT_CAG_123
+D Reverse Conducting Anode Gate Thyristor (RCAGT)
+K RCAGT Reverse Conducting Anode Gate Thyristor
+$ENDCMP
+#
+$CMP RCCGT_CAG_123
+D Reverse Conducting Cathode Gate Thyristor (RCCGT)
+K RCCGT Reverse Conducting Cathode Gate Thyristor
+$ENDCMP
+#
+$CMP RCDT_CA_12
+D Reverse Conducting Diode Thyristor (RCDT)
+K RCDT Reverse Conducting Diode Thyristor 
+$ENDCMP
+#
+$CMP SCS_CAGG_1234
+D Silicon Controlled Switch (SCS)
+K SCS Silicon Controlled Switch
+$ENDCMP
+#
+$CMP TRIAC_MMG_123
+D TRIAC
+K TRIAC
+$ENDCMP
+#
+#End Doc Library

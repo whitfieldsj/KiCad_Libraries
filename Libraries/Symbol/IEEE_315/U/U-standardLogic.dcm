@@ -1,0 +1,2325 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 741016
+D 16-Bit Schottky Barrier-Diode R-C Bus-Termination Array
+K Bus Termination
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741050
+D 12-Bit Schottky Barrier-Diode Bus-Termination Array
+K Bus Termination Array
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741051
+D 12-Bit Schottky Barrier-Diode Bus-Termination Array
+K Bus Termination Array
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741052
+D 16-Bit Schottky Barrier-Diode Bus-Termination Array
+K Bus Termination Array
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741053
+D 16-Bit Schottky Barrier-Diode Bus-Termination Array
+K Bus Termination Array
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741056
+D 8-Bit Schottky Barrier-Diode Bus-Termination Array
+K Bus Termination
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74107
+D Dual J-K Flip-Flops With Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741071
+D 10-Bit Bus-Termination Array With Bus-Hold Function
+K Bus Termination Array
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741073
+D 16-Bit Bus-Termination Array With Bus-Hold Function
+K Bus Termination Array
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74109
+D Dual J-(Not)K Positive-Edge-Triggered Flip-Flops With Preset and Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411074
+D Dual D-Type Positive-Edge-Triggered Flip-Flops With Preset and Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411138
+D 3-Line To 8-Line Decoders/Demultiplexers
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411139
+D Dual 2-Line Decoders/Demultiplexers
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411175
+D Quad D-Type Flip-Flops With Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74112
+D Dual J-K Negative-Edge-Triggered Flip-Flops With Preset and Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411240
+D Octal Inverting Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411244
+D Octal Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411245
+D Octal Bus Transceiver With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411257
+D Quad 2-Line To 1-Line Data Selectors/Multipexers With 3-State Outputs
+K Selectors Multipexers
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411286
+D 9-Bit Parity Generators/Checkers With Bus Driver Parity I/O Port
+K Parity
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74113
+D Dual J-K Flip-Flops With Preset
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411373
+D Octal Transparent D-Type Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411374
+D Octal Edge-Triggered D-Type Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74114
+D Dual J-K Negative-Edge-Triggered Flip-Flops With Preset, Common Clear & Clock
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411543
+D Octal Registered Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411652
+D Octal Registered Transceiver And Register With 3-State Outputs
+K Transceiver Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74121
+D Monostable Multivibrators With Schmitt-Trigger Inputs
+K Monostable Multivibrator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74122
+D Retriggerable Monostable Multivibrators
+K Monostable Multivibrator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74123
+D Dual Retriggerable Monostable Multivibrators With Schmitt-Trigger Inputs
+K Monostable Multivibrator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74124
+D Dual Voltage-Controlled Oscillators
+K VCO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741240
+D Octal Inverting Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741244
+D Octal Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741245
+D Octal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741284
+D 7-Bit Bus Interfaces With 3-State Outputs
+K Bus Interface
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74137
+D 3-Line To 8-Line Decoders/Demultiplexers With Address Latches
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74138
+D 3-Line To 8-Line Decoders/Demultiplexers
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74139
+D Dual 2-Line To 4-Line Decoders/Demultiplexers
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741404
+D Inverting Buffer/Driver
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74145
+D BCD-To-Decimal Decoders/Drivers
+K Decoder Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74147
+D 10-Line To 4-Line BCD Priority Encoder
+K Encoder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74148
+D 8-Line To 3-Line Priority Encoder
+K Encoder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74150
+D 16-Line to 1-Line Data Selector/Multiplexer
+K Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74151
+D 8-Line To 1-Line Data Selectors/Multiplexers
+K Selector Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74153
+D Dual 4-Line To 1-Line Data Selectors/Multiplexers
+K Selector Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74154
+D 4-Line to 16-Line Decoders/Demultiplexers
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74155
+D Dual 2-Line To 4-Line Decoders/Demultiplexers
+K Decoder Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74156
+D Dual 2-Line To 4-Line Decoders/Demultiplexers With Open-Collector Outputs
+K Decoder Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74157
+D Quad 2-Line To 1-Line Data Selectors/Multipexers
+K Selector Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74158
+D Quad 2-Line To 1-Line Data Selectors/Multipexers
+K Selector Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74159
+D 4-Line to 16-Line Decoders/Demultiplexers With Open-Collector Outputs
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74161
+D 4-Bit Synchronous Binary Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416222
+D 22-Bit Voltage Clamp
+K Voltage Clamp
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416240
+D Low Voltage 16-Bit Inverting Buffer/Line Driver with 3.6V Tolerant Inputs and Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416241
+D 16-Bit Buffers/Drivers with 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416244
+D 16-Bit Buffers/Drivers with 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416245
+D 16-Bit Transceivers with 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416260
+D 12-bit to 24-bit multiplexed D-type Latches with 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416269
+D 12-bit to 24-bit Registered Bus Exchanger with 3-State Outputs
+K Bus Exchanger
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416270
+D 12-bit to 24-bit Registered Bus Exchanger with 3-State Outputs
+K Bus Exchanger
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74163
+D 4-Bit Synchronous Binary Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416334
+D 16-Bit Universal Bus Driver with 3-State Outputs
+K Bus Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416344
+D 1-Bit to 4-Bit Address Driver with 3-State Outputs
+K Address Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416373
+D 16-Bit Transparent D-Type Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416374
+D 16-Bit Edge-Triggered D-Type Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74164
+D 8-Bit Parallel-Out Serial Shift Registers
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741640
+D Octal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741645
+D Octal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416460
+D 4-To-1 Multiplexed/Demultiplexed Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416470
+D 16-Bit Registered Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74165
+D Parallel-Load 8-Bit Shift Registers
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416500
+D 18-Bit Universal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416501
+D 18-Bit Universal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416524
+D 18-Bit Registered Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416525
+D 18-Bit Registered Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416540
+D 16-Bit Buffers/Drivers with 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416541
+D 16-Bit Buffers/Drivers with 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416543
+D 16-Bit Registered Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74166
+D Parallel-Load 8-Bit Shift Registers
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416600
+D 18-Bit Universal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416601
+D 18-Bit Universal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74168
+D BCD Decade 4-Bit Synchronous Up/Down Binary Bi-Directional Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74169
+D 4-Bit Synchronous Up/Down Binary Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74170
+D 4-By-4-Register Files With Open-Collector Outputs
+K Register File
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74173
+D 4-Bit D-Type Registers With 3-State Outputs
+K Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74174
+D Hex D-Type Flip-Flops With Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74175
+D Quad D-Type Flip-Flops With Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74181
+D Arithmetic Logic Units/Function Generators
+K ALU
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74182
+D Look-Ahead Carry Generator
+K Carry Generator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74190
+D Synchronous 4-Bit Up/Down Decade and Binary Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74191
+D 4-Bit Synchronous Up/Down Binary Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74192
+D 4-Bit Synchronous Presettable Up/Down Binary Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74193
+D 4-Bit Synchronous Up/Down Binary Counters With Dual Clock and Clear
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74194
+D 4-Bit Bidirectional Universal Shift Registers
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74195
+D 4-Bit Parallel-Access Shift Registers
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74196
+D Presettable Decade Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74221
+D Dual Retriggerable Monostable Multivibrators With Schmitt-Trigger Inputs
+K Monostable Multivibrator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742226
+D Dual 64 x 1 Clocked First-In, First-Out Memory
+K Memory FIFO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742227
+D Dual 64 x 1 First-In, First-Out Memory
+K Memory FIFO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742228
+D Dual 256 x 1 Clocked First-In, First-Out Memory
+K Memory FIFO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742229
+D Dual 256 x 1 First-In, First-Out Memory
+K Memory FIFO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742240
+D Octal Inverting Buffers And Line/MOS Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742241
+D Octal Buffers And Line/MOS Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742244
+D Octal Buffers And Line/MOS Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742245
+D Octal Bus Transceiver And Line/MOS Driver With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74225
+D 16x5 Asynchronous First-In First Out Memory With 3-State Outputs
+K FIFO Memory
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742257
+D Quad 2-Input Multipexers
+K Multipexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74232
+D 16 x 4 Asynchronous First-In, First-Out Memory
+K Register FIFO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74232-QN
+D 16 x 4 Asynchronous First-In, First-Out Memory
+K Register FIFO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74236
+D 64 x 4 Asynchronous First-In, First-Out Memory
+K Register FIFO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74236-QN
+D 64 x 4 Asynchronous First-In, First-Out Memory
+K Register FIFO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74237
+D 3-Line To 8-Line Decoders/Demultiplexers With Address Latches
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742373
+D 25 Ohm Octal Transparent D-Type Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742374
+D 8-Bit Registers With 3-State Outputs
+K Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74238
+D 3-Line To 8-Line Decoders/Demultiplexers
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74240
+D Octal Inverting Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74241
+D Octal Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742414
+D Memory Decoder With On-Chip Supply Voltage Monitor
+K Memory Decoder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74242
+D Quad Bus Transceivers 
+K Transceiver 
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74243
+D Quad Bus Transceivers 
+K Transceiver 
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74244
+D Octal Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74245
+D Octal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74247
+D BCD-To-Seven-Segment Decoders/Drivers With Open-Collector Outputs
+K Decoder Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74248
+D BCD-To-Seven-Segment Decoders/Drivers
+K Decoder Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74249
+D BCD-To-Seven-Segment Decoders/Drivers With Open-Collector Outputs
+K Decoder Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74250
+D 1-Of-16 Data Generators/Multiplexers With 3-State Outputs
+K Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74251
+D Data Selectors/Multiplexers With 3-State Outputs
+K Selector Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74253
+D Dual 4-Line To 1-Line Data Selectors/Multiplexers With 3-State Outputs
+K Selector Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742541
+D Octal Line Driver/MOS Driver With 3-State Outputs
+K Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742543
+D 8-Bit Latched Transceiver With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74256
+D Dual 4-Bit Addressable Latch
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74257
+D Quad 2-Line To 1-Line Data Selectors/Multipexers With 3-State Outputs
+K Selector Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742573
+D 8-Bit Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742574
+D 8-Bit Registers
+K Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74258
+D Quad 4-Line To 1-Line Data Selectors/Multipexers With 3-State Outputs
+K Selector Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74259
+D 8-Bit Addressable Latches
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742646
+D Octal Bus Transceivers and Registers With 3-State Outputs
+K Transceiver Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74265
+D Quad Complementary-Output Elements
+K Complementary-Output Elements
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742652
+D Octal Bus Transceivers and Registers With 3-State Outputs
+K Transceiver Registers
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74273
+D Octal D-Type Flip-Flops With Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74276
+D Quad J-(Not)K Flip-Flops
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74279
+D Quad S-R Latches
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74280
+D 9-Bit Parity Generators/Checkers
+K Parity
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742827
+D 10-Bit Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74283
+D 4-Bit Binary Full Adders With Fast Carry
+K Full Adder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74286
+D 9-Bit Parity Generators/Checkers With Bus Driver Parity I/O Port
+K Parity
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74290
+D 4-Bit Decade Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74292
+D Programmable Frequency Dividers/Digital Timers
+K Frequency Dividers Digital Timer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74293
+D 4-Bit Decade Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74294
+D Programmable Frequency Dividers/Digital Timers
+K Frequency Dividers Digital Timer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74295
+D 4-Bit Shift Register With 3-State Outputs
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742952
+D Octal Bus Transceivers And Registers With 3-State Outputs
+K Transceiver Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74297
+D Digital Phase-Locked-Loop Filters
+K Phase-Locked-Loop Filter PLL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74298
+D Quad 2-Input Multiplexers With Storage
+K Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7429821
+D 10-Bit Bus Interface Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7429823
+D 9-Bit Bus Interface Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7429827
+D 10-Bit Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7429828
+D 10-Bit Inverting Bus/MOS Memory Drivers With 3-State Outputs
+K Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7429833
+D 8-Bit To 9-Bit Parity Bus Transceivers
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7429863
+D 9-Bit Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74299
+D Quad 2-Input Multiplexers With Storage
+K Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743010
+D 10-Bit Voltage Clamp
+K Voltage Clamp
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7431
+D Delay Elements
+K Delay Element
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74321
+D Crystal-Controlled Oscillators
+K Oscillator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74322
+D 8-Bit Shift Registers With Sign Extend
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74323
+D 8-Bit Universal Shift/Storage Registers With Synchronous Clear and 3-State Outputs
+K Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743245
+D Octal Bus Transceiver with Adjustable Output Voltage and 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743306
+D Dual FET Bus Switch
+K FET Bus Switch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74348
+D 8-Line To 3-Line Priority Encoder With 3-State Outputs
+K Encoder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74352
+D Dual 4-Input Multiplexer
+K Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74353
+D Dual 4-Input Multiplexer With 3-State Outputs
+K Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74354
+D 8-Line to 1-Line Data Selectors/Multiplexers/Transparent Registers With 3-State Outputs
+K Selector Multiplexer Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74355
+D 8-Line to 1-Line Data Selectors/Multiplexers/Transparent Registers With Open-Collector Outputs
+K Selector Multiplexer Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74356
+D 8-Line to 1-Line Data Selectors/Multiplexers/Transparent Registers With 3-State Outputs
+K Selector Multiplexer Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74365
+D Hex Buffers And Line Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74366
+D Hex Inverting Buffers And Line Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74367
+D Hex Buffers And Line Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74368
+D Hex Inverting Buffers And Line Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74373
+D Octal Transparent D-Type Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74374
+D Octal Edge-Triggered D-Type Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74375
+D 4-Bit Latch
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74377
+D Octal D-Type Flip-Flops With Clock Enable
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74378
+D Hex D-Type Flip-Flops With Clock Enable
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74379
+D 4-Bit D-Type Flip-Flops With Enable
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74390
+D Dual 4-Bit Decade Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74393
+D Dual 4-Bit Binary Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74395
+D Cascadable Shift Registers With 3-State Outputs
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74399
+D Quad 2-Input Multiplexers With Storage
+K Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7442
+D 4-Line To 10-Line Decoders (1 of 10)
+K Decoder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74423
+D Dual Retriggerable Monostable Multivibrators With Schmitt-Trigger Inputs
+K Monostable Multivibrator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 744245
+D Octal Bus Transceiver and 3.3 V to 5 V Shifter and 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 744351
+D 8-Channel Analogue Multiplexer/Demultiplexer With Latch
+K Analogue Multiplexer Demultiplexer Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 744352
+D Dual 4-Channel Analogue Multiplexer/Demultiplexer With Latch
+K Analogue Multiplexer Demultiplexer Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74440
+D Quad Tridirectional Bus Transceivers (Open-Collector/True)
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74441
+D Quad Tridirectional Bus Transceivers (Open-Collector/Inverting)
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74442
+D Quad Tridirectional Bus Transceivers (3-State/True)
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74444
+D Quad Tridirectional Bus Transceivers (3-State/True/Inverting)
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7445
+D BCD-To-Decimal Decoders/Drivers
+K Decoder Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 744538
+D Dual Precision Monostable
+K Monostable
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74465
+D Octal Buffers With 3-State Outputs
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7447
+D BCD-To-Seven-Segment Decoders/Drivers
+K Decoder Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7448
+D BCD-To-Seven-Segment Decoders/Drivers
+K Decoder Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74480
+D Dual 8-Bit Parity Generator/Checker
+K Parity
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 744851
+D 8-Channel Analogue Multiplexer/Demultiplexer With Injection Current Protection
+K Analogue Multiplexer Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 744852
+D Dual 4-Channel Analogue Multiplexer/Demultiplexer With Injection Current Protection
+K Analogue Multiplexer Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7449
+D BCD-To-Seven-Segment Decoders/Drivers
+K Decoder Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74518
+D Octal Binary/BCD Identity Comparitors With Enable
+K Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74520
+D Octal Binary/BCD Identity Comparitors With Enable
+K Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74521
+D 8-Bit Identity Comparitors With Open-Collector Outputs
+K Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74533
+D Octal Transparent D-Type Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74534
+D Octal Edge-Triggered D-Type Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74540
+D Octal Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 745400
+D 11-Bit Line/Memory Drivers With 3-State Outputs
+K Memory Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 745401
+D 11-Bit Line/Memory Inverting Drivers With 3-State Outputs
+K Memory Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 745402
+D 12-Bit Line/Memory Drivers With 3-State Outputs
+K Memory Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 745403
+D 12-Bit Line/Memory Drivers With 3-State Outputs
+K Memory Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74541
+D Octal Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74543
+D Octal Registered Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74561
+D Synchronous 4-Bit Counters With 3-State Outputs
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74563
+D Octal D-Type Transparent Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74564
+D Octal D-Type Edge-Triggered Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74569
+D Synchronous 4-Bit Up/Down Counters With 3-State Outputs
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74573
+D Octal D-Type Transparent Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74574
+D Octal D-Type Edge-Triggered Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74575
+D Octal D-Type Edge-Triggered Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74576
+D Octal D-Type Edge-Triggered Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74577
+D Octal D-Type Edge-Triggered Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74580
+D Octal D-Type Transparent Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74590
+D 8-Bit Binary Counters With 3-State Output Registers
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74592
+D 8-Bit Binary Counters With Input Registers
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74593
+D 8-Bit Binary Counters With Input Registers
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74594
+D 8-Bit Shift Registers With Output Latches
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74595
+D 8-Bit Shift Registers With 3-State Output Latches
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74596
+D 8-Bit Shift Registers With 3-State Output Latches
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74597
+D Serial-Out Shift Registers With Input Latches
+K Shift Register Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74598
+D 8-Bit Shift-Registers With Input Latches
+K Shift Register Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74599
+D 8-Bit Shift Registers With Output Latches And Open-Collector Outputs
+K Shift Register Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74620
+D Octal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74621
+D Octal Bus Transceivers
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74623
+D Octal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74624
+D Voltage-Controlled Oscillators
+K VCO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74628
+D Voltage-Controlled Oscillators
+K VCO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74629
+D Dual Voltage-Controlled Oscillators
+K VCO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74638
+D Octal Bus Transceivers
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74639
+D Octal Bus Transceivers
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74640
+D Octal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74641
+D Octal Bus Transceivers With Open-Collector Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74642
+D Octal Bus Transceivers With Open-Collector Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74645
+D Octal Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74646
+D Octal Bus Transceivers and Registers With 3-State Outputs
+K Transceiver Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74647
+D Octal Bus Transceivers and Registers With Open-Collector Outputs
+K Transceiver Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74648
+D Octal Bus Transceivers and Registers With 3-State Outputs
+K Transceiver Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74651
+D Octal Bus Transceivers and Registers With 3-State Outputs
+K Transceiver Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74652
+D Octal Bus Transceivers and Registers With 3-State Outputs
+K Transceiver Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74653
+D Octal Bus Transceivers and Registers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74654
+D Octal Bus Transceivers and Registers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74657
+D Octal Bus Transceivers With Parity Generators/Checkers And 3-State Outputs
+K Transceiver Parity
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74666
+D 8-Bit D-Type Transparent Read-Back Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74667
+D 8-Bit D-Type Transparent Read-Back Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74669
+D 4-Bit Synchronous Up/Down Binary Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74670
+D 4-By-4-Register Files With 3-State Outputs
+K Register File
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74673
+D 16-Bit Shift Registers
+K Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74674
+D 16-Bit Shift Registers
+K Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74679
+D 12-Bit Address Comparitors
+K Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74682
+D 8-Bit Magnitude Comparitors
+K Magnitude Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74684
+D 8-Bit Magnitude Comparitors
+K Magnitude Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74686
+D 8-Bit Magnitude/Identity Comparitors
+K 8-Bit Magnitude Identity Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74688
+D 8-Bit Mgnitude/Identity Comparitors With Enable
+K Magnitude Identity Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74697
+D 4-Bit Synchronous Up/Down Counters With Output Registers And Multiplexed 3-State Outputs
+K Counter Register Multiplexed
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74699
+D 4-Bit Synchronous Up/Down Counters With Output Registers And Multiplexed 3-State Outputs
+K Counter Register Multiplexed
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 747046
+D Phase-Locked-Loop With VCO And Lock Detector
+K Phase-Locked-Loop PLL VCO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7473
+D Dual J-K Flip-Flops With Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7474
+D Dual D-Type Positive-Edge-Triggered Flip-Flops With Preset and Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74746
+D Octal Inverting Buffers/Drivers With 3-State Outputs And Input Pull-Up Resistors
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7475
+D Dual 2-bit Bistable Transparent Latch
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74756
+D Octal Inverting Buffers/Drivers With Open-Collector Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74757
+D Octal Buffers/Drivers With Open-Collector Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7476
+D Dual J-K Flip-Flops With Preset and Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74760
+D Octal Buffers/Drivers With Open-Collector Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7477
+D 4-Bit Latch
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7478
+D Dual J-K Flip-Flops With Preset and Clear
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74821
+D 10-Bit Bus Interface Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74823
+D 9-Bit Bus Interface Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74825
+D 8-Bit Bus Interface Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74827
+D 10-Bit Buffers/Drivers With 3-State Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74828
+D Inverting Buffer/Driver
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7483
+D 4-Bit Binary Full-Adder With Fast Carry
+K Full Adder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74833
+D 8-Bit To 9-Bit Parity Bus Transceivers
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74841
+D 10-Bit Bus Interface D-Type Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74843
+D 9-Bit Bus Interface D-Type Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74845
+D 8-Bit Bus Interface D-Type Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7485
+D 4-Bit Magnitude Comparitors
+K Magnitude Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74853
+D 8-Bit To 9-Bit Parity Bus Transceivers
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74857
+D Hex 2-To-1 Universal Multiplexers With 3-State Outputs
+K Multiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74861
+D 10-Bit Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74863
+D 9-Bit Bus Transceivers With 3-State Outputs
+K Transceiver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74867
+D Synchronous 8-Bit Up/Down Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74869
+D Synchronous 8-Bit Up/Down Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74870
+D Dual 16-By-4-Bit Register Files
+K Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74873
+D Dual 4-Bit D-Type Latches With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74874
+D Dual 4-Bit D-Type Edge-Triggered Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74876
+D Dual 4-Bit D-Type Edge-Triggered Flip-Flops With 3-State Outputs
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74885
+D 8-Bit Magnitude Comparitors
+K Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7490
+D Decade Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7491
+D 8-Bit Shift Register
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7492
+D Divide-By-Twelve Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7493
+D 4-Bit Binary Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7495
+D 4-Bit Right/Left Shift Register
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7496
+D 5-Bit Shift Registers
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7497
+D Synchronous 6-Bit Binary Rate Multipliers
+K Multiplier
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74990
+D 8-Bit D-Type Transparent Read-Back Latch
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74992
+D 9-Bit D-Type Transparent Read-Back Latch With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74994
+D 10-Bit D-Type Transparent Read-Back Latch
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74996
+D 8-Bit D-Type Edge-Triggered Read-Back Latches
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD14538
+D Dual Monostable Multivibrators
+K Monostable Multivibrator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4007
+D Dual Complementary Pair Plus Inverter
+K Dual Complementary Pair
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4013
+D Dual D-Type Flip-Flops
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4014
+D 8-Stage Static Shift Register
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4015
+D Dual 4-Bit Static Shift Register
+K Static Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4016
+D Quad Bilateral Switch
+K Bilateral Switch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4017
+D Counters/Dividers
+K Counter Divider
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4018
+D Presettable Divide-By-N Counter
+K Counter 
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4020
+D Ripple-Carry Binary Counters/Dividers
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4021
+D 8-Stage Static Shift Register
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4022
+D Counters/Dividers
+K Counter Divider
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4024
+D Ripple-Carry Binary Counters/Dividers
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4026
+D 7-Segment Decoder And Decade Counters/dividers
+K Counter Divider
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4027
+D Dual J-K Master-Slave Flip-Flops
+K Flip-Flop
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4028
+D BCD-To-Decimal Decoder
+K Decoder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4029
+D Presettable Up/Down Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4031
+D 64-Stage Static Shift Register
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4033
+D 7-Segment Decoder And Decade Counters/dividers
+K Counter Divider
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4034
+D 8-Statge Static Bidirectional Parallel/Serial Input/Output Bus Register
+K Bus Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4035
+D 4-Stage Parallel-In/Parallel-Out Shift Register
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4040
+D Ripple-Carry Binary Counters/Dividers
+K Counter Divider
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4041
+D Quad True/Complement Buffer
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4042
+D Quad Clocked D-Latch
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4043
+D Quad 2-State R/S Latches
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4044
+D Quad 2-State R/S Latches
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4045
+D 21-Stage Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4046
+D Phase-Locked-Loop With VCO
+K Phase-Locked-Loop PLL VCO
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4047
+D Monostable/Astable Multivibrator
+K Monostable Astable Multivibrator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4048
+D Multifunction Expandable 8-Input Gate
+K Multifunction Expandable Gate
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4051
+D 8-Channel Analogue Multiplexer/Demultiplexer With Level Conversion
+K Analogue Multiplexer Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4052
+D Dual 4-Channel Analogue Multiplexer/Demultiplexer With Level Conversion
+K Analogue Multiplexer Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4053
+D Triple 2-Channel Analogue Multiplexer/Demultiplexer With Level Conversion
+K Analogue Multiplexer Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4054
+D Liquid Crystal Display LCD Drivers
+K LCD Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4055
+D Liquid Crystal Display LCD Drivers
+K LCD Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4056
+D Liquid Crystal Display LCD Drivers
+K LCD Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4059
+D Programmable Divide-By-N Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4060
+D 14-Stage Ripple-Carry Binary Counter/Divider And Oscillator
+K Counter Divider Oscillator
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4063
+D 4-Bit Magnitude Comparitors
+K Magnitude Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4066
+D Quad Bilateral Switch
+K Bilateral Switch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4067
+D 16-Channel Analogue Multiplexer/Demultiplexer
+K Analogue Multiplexer Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4076
+D 4-Bit D-Type Registers
+K Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4085
+D Dual 2-Wide, 2-Input AND-OR-Invert Gate
+K AND-OR-Invert
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4086
+D Expandable Dual 4-Wide, 2-Input AND-OR-Invert Gate
+K AND-OR-Invert
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4089
+D Binary Rate Multiplier
+K Binary Rate Multiplier
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4094
+D 8-Stage Shift-And-Store Bus Register With 3-State Outputs
+K Bus Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4097
+D Differential 8-Channel Analogue Multiplexer/Demultiplexer
+K Analogue Multiplexer Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4098
+D Dual Monostable Multivibrators
+K Monostable
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4099
+D 8-Bit Addressable Latch
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4502
+D Strobed Hex Inverter/Buffer With 3-State Outputs
+K Inverter Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4503
+D Hex Buffer With 3-State Outputs
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4504
+D Hex Voltage-Level Shifter fot TTL-CMOS or CMOS-CMOS Operation 
+K Voltage-Level Shifter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4508
+D Dual 4-Bit Latch With 3-State Outputs
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4510
+D Presettable Up/Down Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4511
+D BCD-To-7-Segment Latch Decoder Drivers
+K Latch Decoder Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4512
+D 8-Channel Data Selector
+K Data Selector
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4514
+D 4-Bit Latch/4-Line to 16-Line Decoders
+K Decoder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4515
+D 4-Bit Latch/4-Line to 16-Line Decoders
+K Decoder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4516
+D Presettable Up/Down Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4517
+D 64-Stage Static Shift Register
+K Shift Register
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4518
+D Dual BCD Up Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4520
+D Dual Binary Up Counters
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4521
+D 24-Stage Frequency Divider
+K Frequency Divider
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4522
+D Programmable Divide-By-N Counter
+K Counter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4527
+D BCD Rate Multiplier
+K Rate Multiplier
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4532
+D 8-Bit Priority Encoder
+K Priority Encoder
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4536
+D Programmable Timer
+K Timer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4538
+D Dual Precision Monostable
+K Monostable
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4541
+D Programmable Timer
+K Timer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4543
+D Liquid Crystal Display LCD Drivers
+K LCD Drivers
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4555
+D Dual Binary To 1 of 4 Decoder/Demultiplexers
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4556
+D Dual Binary To 1 of 4 Decoder/Demultiplexers
+K Decoder Demultiplexer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4572
+D Hex Gate (NOT, NOR, NAND)
+K Hex Gate (NOT, NOR, NAND)
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4585
+D 4-Bit Magnitude Comparitors
+K Magnitude Comparitor
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4727
+D 8-Bit Addressable Latch
+K Latch
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+#End Doc Library

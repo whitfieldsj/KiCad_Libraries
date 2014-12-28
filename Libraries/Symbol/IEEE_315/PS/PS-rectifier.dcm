@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0  Date: 09/06/2013 17:58:24
+#
+$CMP DCC
+D DC/DC Converter
+K DC/DC Converter
+$ENDCMP
+#
+$CMP FWB
+D Full-Wave Bridge Rectifier
+K Full-Wave Bridge Rectifier
+F G:/ApplicationFiles/KiCad/Documents/DataTables/PS-bridgeRectifiers.ods
+$ENDCMP
+#
+$CMP INVERTER
+D Inverter
+K Inverter
+$ENDCMP
+#
+$CMP RECT
+D Rectifier
+K Rectifier
+$ENDCMP
+#
+#End Doc Library

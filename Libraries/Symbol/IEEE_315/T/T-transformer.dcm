@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0  Date: 03/06/2013 19:08:19
+#
+$CMP AUTOTRANSFORMER
+D Transformer
+K Transformer
+$ENDCMP
+#
+$CMP TRANSFORMER
+D Transformer
+K Transformer
+$ENDCMP
+#
+$CMP TRANSFORMER_3W
+D Transformer 3 Windings
+K Transformer 3 Windings
+$ENDCMP
+#
+$CMP TRANSFORMER_CT
+D Transformer with Center Tap
+K Transformer Center Tap
+$ENDCMP
+#
+$CMP Transformer_MC
+D Transformer with Magnetic Core
+K Transformer Magnetic Core
+$ENDCMP
+#
+$CMP Transformer_S
+D Transformer with Shield
+K Transformer Shield
+$ENDCMP
+#
+#End Doc Library

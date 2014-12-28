@@ -1,0 +1,555 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7400
+D Quad 2-Input Positive-NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7401
+D Quad 2-Input Positive-NAND Gates With Open-Collector Outputs
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7402
+D Quad 2-Input Positive-NOR Gates
+K NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7403
+D Quad 2-Input Positive-NAND Gates With Open-Collector Outputs
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7404
+D Hex Inverters
+K Inverter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7405
+D Hex Inverters With Open-Collector Outputs
+K Inverter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7406
+D Hex Inverter Buffers/Drivers With Open-Collector Outputs
+K Buffer Driver Inverter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7407
+D Hex Buffers/Drivers With Open-Collector High Voltage Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7408
+D Quad 2-Input Positive-AND Gates
+K AND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7409
+D Quad 2-Input Positive-AND Gates With Open-Collector Outputs
+K AND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7410
+D Triple 3-Input Positive-NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741000
+D Quad 2-Input Positive-NAND Buffers/Drivers
+K NAND Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741004
+D Hex Inverting Drivers
+K Inverter Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741005
+D Hex Inverting Buffers With Open-Collector Outputs
+K Inverter Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741008
+D Quad 2-Input Positive-AND Buffers/Drivers
+K AND Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741032
+D Quad 2-Input OR Driver
+K OR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741034
+D Hex Drivers
+K Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741035
+D Hex Noninverting Buffers With Open-Collector Outputs
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411
+D Triple 3-Input Positive-AND Gates
+K AND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411000
+D Quad 2-Input Positive-NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411004
+D Hex Inverters
+K Inverter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411008
+D Quad 2-Input Positive-AND Gates
+K AND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411030
+D 8-Input Positive-NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411032
+D Quad 2-Input OR Gates
+K OR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7411086
+D Quad 2-Input Exclusive-OR Gates
+K XOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7412
+D Triple 3-Input Positive-NAND Gates With Open-Collector Outputs
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74125
+D Quad Bus Buffer Gates With 3-State Outputs
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74126
+D Quad Bus Buffer Gates With 3-State Outputs
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74128
+D Quad 2-Input 50 Ohm or 75 Ohm Line Drivers
+K OR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7413
+D Dual 4-Input Schmitt-Trigger NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74132
+D Quad 2-Input Positive-NAND Gates With Schmitt-Trigger Inputs
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74133
+D 13-Input Positive NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74136
+D Quad 2-Input Exclusive-OR Gates With Open-Collector Outputs
+K XOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7414
+D Hex Schmitt-Trigger Inverters
+K Inverter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74140
+D Dual 4-Input Positive-NAND 50 Ohm Line Drivers
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7415
+D Triple 3-Input Positive-NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7416
+D Hex Inverter Buffers/Drivers With Open-Collector High-Voltage Outputs
+K Buffer Driver Inverter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7417
+D Hex Buffers/Drivers With Open-Collector High Voltage Outputs
+K Buffer Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7419
+D Hex Schmitt-Trigger Inverters
+K Inverter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7420
+D Dual 4-Input Positive-NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7421
+D Dual 4-Input Positive-AND Gates
+K AND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7425
+D Dual 4-Input Positive-NOR Gates With Strobe
+K NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7426
+D Quad 2-Input High-Voltage Interface Positive-NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74260
+D Dual 5-Input Positive-NOR Gates
+K NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74266
+D Quad 2-Input Exclusive-NOR Gates With Open-Collector Outputs
+K XOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7427
+D Triple 3-Input Positive-NOR Gates
+K NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7430
+D 8-Input Positive-NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7432
+D Quad 2-Input OR Gates
+K OR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7433
+D Quad 2-Input Positive-NOR Buffers With Open-Collector Outputs
+K OR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7434
+D Hex Buffer Gate
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7435
+D Hex Noninverters With Open-Collector Outputs
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7437
+D Quad 2-Input Positive-NAND Buffers
+K NAND Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7438
+D Quad 2-Input Positive-NAND Buffers With Open-Collector Outputs
+K NAND Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74386
+D Quad 2-Input Exclusive-OR Gates
+K XOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7451
+D AND-OR-Invert Gates ( S =/(AB+CD) )
+K AND-OR-Invert
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7454
+D AND-NOR (S = /(AB + CD + EF + GH) )
+K AND-NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7455
+D AND-NOR ( S = / (ABCD + EFGH) )
+K AND-NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 747001
+D Quad 2-Input Positive AND Gates With Schmitt-Trigger Inputs
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 747002
+D Quad 2-Input Positive-NOR Gates With Schmitt-Trigger Inputs
+K NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 747032
+D Quad 2-Input Positive-OR Gates With Schmitt-Trigger Inputs
+K OR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 747266
+D Quad 2-Input Exclusive-NOR Gates
+K XOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 748003
+D Dual 2-Input Positive-NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74804
+D Hex 2-Input NAND Drivers
+K NAND Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74805
+D Hex 2-Input NOR Drivers
+K NOR Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74808
+D Hex 2-Input AND Drivers
+K AND Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74832
+D Hex 2-Input OR Drivers
+K OR Driver
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 7486
+D Quad 2-Input Exclusive-OR Gates
+K XOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 74U04
+D Hex Inverters
+K Inverter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4001
+D Quad 2-Input Positive-NOR Gates
+K NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4002
+D Dual 4-Input Positive-NOR Gates
+K NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4009
+D Hex Inverter Buffer
+K Inverter Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4010
+D Hex Buffer
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4011
+D Quad 2-Input NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4012
+D Dual 4-Input NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4019
+D Quad AND-OR-Select Gates
+K AND-OR-Select
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4023
+D Triple 3-Input NAND Gates
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4025
+D Triple 3-Input NOR Gates
+K NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4030
+D Quad 2-Input Exclusive-OR Gates
+K XOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4049
+D Hex Inverting Buffers
+K Inverter Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4050
+D Hex Buffers
+K Buffer
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4068
+D 8-Input NAND/AND Gates
+K NAND AND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4069
+D Hex Inverters
+K Inverter
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4070
+D Quad 2-Input Exclusive-OR Gates
+K XOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4071
+D Quad 2-Input OR Gates
+K OR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4072
+D Dual 4-Input OR Gates
+K OR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4073
+D Triple 3-Input AND Gates
+K AND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4075
+D Triple 3-Input NOR Gates
+K NOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4077
+D Quad 2-Input Exclusive-NOR Gates
+K XNOR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4078
+D 8-Input NOR/OR Gates
+K NOR OR
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4081
+D Quad 2-Input AND Gates
+K AND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4082
+D Dual 4-Input AND Gates
+K AND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP CD4093
+D Quad 2-Input NAND Gates With Schmitt-Trigger Inputs
+K NAND
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+#End Doc Library

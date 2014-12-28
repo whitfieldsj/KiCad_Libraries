@@ -1,0 +1,441 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 741G00
+D 2-Input Positive-NAND Gate
+K NAND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G02
+D 2-Input Positive-NOR Gate
+K NOR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G04
+D Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G06
+D Inverting Buffer/Driver Gate With Open-Drain Output
+K Inverter Buffer Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G07
+D Buffer/Driver Gate With Open-Drain Output
+K Buffer Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G08
+D 2-Input Positive-AND Gate
+K AND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G09
+D 2-Input Positive-AND Gate With Open-Drain Output
+K AND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G10
+D 3-Input Positive-NAND Gate
+K NAND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G11
+D 3-Input Positive-AND Gate
+K AND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G125
+D Single Bus Buffer Gate With 3-State Output
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G126
+D Single Bus Buffer Gate With 3-State Output
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G132
+D 2-Input Positive-NAND Gate With Schmitt-Trigger Inputs
+K NAND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G14
+D Schmitt-Trigger Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G17
+D Schmitt-Trigger Buffer
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G240
+D Single Buffer Driver Gate With 3-State Output
+K Buffer Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G27
+D 3-Input Positive-NOR Gate
+K NOR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G32
+D 2-Input Positive-OR Gate
+K OR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G3208
+D AND-OR/OR-AND Gate
+K AND-OR OR-AND Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G332
+D 3-Input Positive-AND Gate
+K AND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G34
+D Low-Power Single Buffer Gate
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G38
+D 2-Input Positive-NAND Gate With Open-Drain Output
+K NAND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G386
+D 2-Input Positive-XOR Gate
+K XOR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G57
+D Configurable Multifunction Gate
+K Configurable Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G58
+D Configurable Multifunction Gate
+K Configurable Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G832
+D AND-OR/OR-AND Gate
+K AND-OR OR-AND Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G86
+D 2-Input Positive-XOR Gate
+K XOR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G97
+D Configurable Multifunction Gate
+K Configurable Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G98
+D Configurable Multifunction Gate
+K Configurable Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G99
+D Ultra-Configurable Multifunction Gate
+K Ultra Configurable Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741GU04
+D Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T00
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output 2-Input Positive-NAND Gate
+K NAND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T02
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output 2-Input Positive-NOR Gate
+K Voltage Translator NOR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T04
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T08
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output 2-Input Positive-AND Gate
+K Voltage Translator AND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T14
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output Schmitt-Trigger Inverter Gate
+K Voltage Translator Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T17
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output Schmitt-Trigger Buffer
+K Voltage Translator Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T32
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output 2-Input Positive-OR Gate
+K Voltage Translator OR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T34
+D 1-Bit Unidirectional Voltage Level Translator
+K Voltage Level Translator Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T45
+D Single-Bit Dual Supply Bus Transceiver With Configurable Voltage Translation and Tri-State Outputs
+K Voltage Level Translator Transciever LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T57
+D Single Supply Voltage Level Translator, Configurable Multifunction Gate
+K Voltage Level TranslatorConfigurable Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T58
+D Single Supply Voltage Level Translator, Configurable Multifunction Gate
+K Voltage Level TranslatorConfigurable Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T86
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output 2-Input Positive-XOR Gate
+K Voltage Translator XOR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T87
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output 2-Input Positive-XNOR Gate
+K Voltage Translator XNOR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T97
+D Single-Supply Voltage Level Translator Configurable Multifunction Gate
+K Voltage Translator Configurable Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T98
+D Single-Supply Voltage Level Translator Configurable Multifunction Gate
+K Voltage Translator Configurable Gate LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G00
+D Dual 2-Input Positive-NAND Gate
+K NAND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G02
+D Dual 2-Input Positive-NOR Gate
+K NOR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G04
+D Dual Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G06
+D Dual Inverting Buffer/Driver Gate With Open-Drain Output
+K Inverter Buffer Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G07
+D Dual Buffer/Driver Gate With Open-Drain Output
+K Buffer Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G08
+D Dual 2-Input Positive-AND Gate
+K AND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G125
+D Dual Single Bus Buffer Gate With 3-State Output
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G126
+D Dual Single Bus Buffer Gate With 3-State Output
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G132
+D Dual 2-Input Positive-NAND Gate With Schmitt-Trigger Inputs
+K NAND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G14
+D Dual Schmitt-Trigger Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G17
+D Dual Schmitt-Trigger Buffer
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G240
+D Dual Single Buffer Driver Gate With 3-State Output
+K Buffer Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G241
+D Dual Single Buffer Driver Gate With 3-State Output
+K Buffer Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G32
+D Dual 2-Input Positive-OR Gate
+K OR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G34
+D Dual Low-Power Single Buffer Gate
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G38
+D Dual 2-Input Positive-NAND Gate With Open-Drain Output
+K NAND LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G86
+D Dual 2-Input Positive-XOR Gate
+K XOR LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742GU04
+D Dual Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742T244
+D 2-Bit Unidirectional Voltage Level Translator
+K Voltage Translation LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742T245
+D Dual-Bit, 2-DIR pin Dual-Supply Bus Transceiver With Configurable Voltage Translation, 3-State Output
+K Transceiver Voltage Translation LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742T45
+D Dual Bit Dual Supply Bus Transciever With Configurable Voltage Translation and Tri-State Outputs
+K Transceiver Voltage Translation LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743G04
+D Triple Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743G06
+D Triple Inverting Buffer/Driver Gate With Open-Drain Output
+K Inverter Buffer Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743G07
+D Triple Inverting Buffer/Driver Gate With Open-Drain Output
+K Inverter Buffer Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743G14
+D Triple Schmitt-Trigger Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743G17
+D Triple Schmitt-Trigger Buffer
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743G34
+D Triple Low-Power Single Buffer Gate
+K Buffer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 743GU04
+D Triple Inverter Gate
+K Inverter LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+#End Doc Library

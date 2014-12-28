@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Battery
+D Battery
+K Battery
+$ENDCMP
+#
+$CMP Cell
+D Battery, Single Cell
+K Battery Cell
+$ENDCMP
+#
+#End Doc Library

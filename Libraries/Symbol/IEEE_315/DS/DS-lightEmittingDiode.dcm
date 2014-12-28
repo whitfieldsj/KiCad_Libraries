@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED
+D Light-Emitting Diode
+K Light-Emitting Diode LED
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-lightEmittingDiodes_Avago.ods
+$ENDCMP
+#
+#End Doc Library

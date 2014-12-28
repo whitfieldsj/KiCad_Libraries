@@ -1,0 +1,139 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Foot_MC
+D Foot Switch Make Contact, Automatic Return
+K Foot Switch Make Contact Automatic Return
+$ENDCMP
+#
+$CMP Foot_MC_L
+D Foot Switch Make Contact, Latched, Automatic Return
+K Foot Switch Make Contact Latched Automatic Return
+$ENDCMP
+#
+$CMP Manual
+D Manually Operated Switch
+K Manually Operated Switch
+$ENDCMP
+#
+$CMP Pull_MC
+D Pull Switch Make Contact, Automatic Return
+K Pull Switch Make Contact Automatic Return
+$ENDCMP
+#
+$CMP Push_MC
+D Push Button Make Contact, Automatic Return
+K Push Button Make Contact Automatic Return
+$ENDCMP
+#
+$CMP Push_MC_Pos
+D Push Button, Positive Action of Make Contact
+K Push Button Positive Action Make Contact
+$ENDCMP
+#
+$CMP SPDB
+D Single Pole, Double Break
+K Single Pole Double Break
+$ENDCMP
+#
+$CMP SPDM
+D Single Pole, Double Make
+K Single Pole Double Make
+$ENDCMP
+#
+$CMP SPDT_BBM
+D Single Pole, Double Throw Switch, Break Before Make
+K Single Pole Double Throw SPDT Break Before Make
+$ENDCMP
+#
+$CMP SPDT_CO
+D Single Pole, Double Throw Switch, Change Over
+K Single Pole Double Throw SPDT Change Over
+$ENDCMP
+#
+$CMP SPDT_MBB
+D Single Pole, Double Throw Switch, Make Before Break
+K Single Pole Double Throw SPDT Make Before Break
+$ENDCMP
+#
+$CMP SPST_BC
+D Single Pole, Single Throw Switch, Break Contact
+K Single Pole Single Throw SPST Break Contact
+$ENDCMP
+#
+$CMP SPST_MC
+D Single Pole, Single Throw Switch, Make Contact
+K Single Pole Single Throw SPST Make Contact
+$ENDCMP
+#
+$CMP SW_DIL_SPST1-Q2
+D DIL Switch SPST 1
+K Dual Inline Switch DIL 1 Position
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST10-Q20
+D DIL Switch SPST 10
+K Dual Inline Switch DIL 10 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST12-Q24
+D DIL Switch SPST 12
+K Dual Inline Switch DIL 12 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST2-Q4
+D DIL Switch SPST 2
+K Dual Inline Switch DIL 2 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST3-Q6
+D DIL Switch SPST 3
+K Dual Inline Switch DIL 3 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST4-Q8
+D DIL Switch SPST 4
+K Dual Inline Switch DIL 4 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST5-Q10
+D DIL Switch SPST 5
+K Dual Inline Switch DIL 5 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST6-Q12
+D DIL Switch SPST 6
+K Dual Inline Switch DIL 6 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST7-Q17
+D DIL Switch SPST 7
+K Dual Inline Switch DIL 7 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST8-Q16
+D DIL Switch SPST 8
+K Dual Inline Switch DIL 8 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP SW_DIL_SPST9-Q18
+D DIL Switch SPST 9
+K Dual Inline Switch DIL 9 Positions
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
+$ENDCMP
+#
+$CMP Turn_MC
+D Turn Switch Make Contact, No Automatic Return
+K Turn Switch Make Contact No Automatic Return
+$ENDCMP
+#
+#End Doc Library

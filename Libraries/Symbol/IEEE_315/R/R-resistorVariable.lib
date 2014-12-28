@@ -1,0 +1,112 @@
+EESchema-LIBRARY Version 2.3  Date: 24/06/2013 12:47:28
+#encoding utf-8
+#
+# Magnetoresistor
+#
+DEF ~Magnetoresistor R 0 0 N N 1 F N
+F0 "R" -90 0 40 V V C CNN
+F1 "Magnetoresistor" 100 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 100 0 40 V V C CNN "Unit"
+DRAW
+P 2 0 0 0  40 -10  60 10 N
+P 2 0 0 0  40 10  60 -10 N
+P 2 0 0 0  50 -75  -50 75 N
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PAR
+#
+DEF ~PAR R 0 0 N N 1 F N
+F0 "R" -130 0 40 V V C CNN
+F1 "PAR" 90 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 100 0 40 V V C CNN "Unit"
+DRAW
+P 2 0 0 0  -100 0  -25 0 N
+P 2 0 0 0  -50 50  50 -50 N
+P 2 0 0 0  -42 60  -62 40 N
+P 4 0 0 0  -25 0  -60 10  -60 -10  -25 0 F
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+X ~ 3 -100 100 100 D 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Photo_Resistor
+#
+DEF ~Photo_Resistor R 0 0 N N 1 F N
+F0 "R" -90 0 40 V V C CNN
+F1 "Photo_Resistor" 75 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 75 0 40 V V C CNN "Unit"
+DRAW
+P 2 0 0 0  -60 -60  -100 -100 N
+P 2 0 0 0  -30 -90  -70 -130 N
+P 4 0 0 0  -60 -60  -85 -75  -75 -85  -60 -60 F
+P 4 0 0 0  -30 -90  -55 -105  -45 -115  -30 -90 F
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Potentiometer
+#
+DEF ~Potentiometer R 0 0 N N 1 F N
+F0 "R" -120 0 40 V V C CNN
+F1 "Potentiometer" -50 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" -60 0 40 V V C CNN "Unit"
+DRAW
+P 4 0 0 0  29 0  64 10  64 -10  29 0 F
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+X ~ 3 100 0 75 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Rheostat
+#
+DEF ~Rheostat R 0 0 N N 1 F N
+F0 "R" -90 0 40 V V C CNN
+F1 "Rheostat" 90 10 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 100 0 40 V V C CNN "Unit"
+DRAW
+P 2 0 0 0  50 -75  -50 75 N
+P 4 0 0 0  -50 76  -34 64  -46 56  -50 76 F
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Tapped_R
+#
+DEF ~Tapped_R R 0 0 N N 1 F N
+F0 "R" -140 0 40 V V C CNN
+F1 "Tapped_R" -60 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" -75 0 40 V V C CNN "Unit"
+DRAW
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+X ~ 3 100 50 75 L 25 25 1 1 P
+X ~ 4 100 -50 75 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

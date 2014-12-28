@@ -1,0 +1,218 @@
+EESchema-DOCLIB  Version 2.0  Date: 08/06/2013 07:59:30
+#
+$CMP Ammeter
+D Ammeter
+K Ammeter
+$ENDCMP
+#
+$CMP Ampere_Hour_Meter
+D Ammeter
+K Ammeter
+$ENDCMP
+#
+$CMP Audio-level_meter
+D Audio-level meter
+K Audio-level meter
+$ENDCMP
+#
+$CMP Contact-making_(or_breaking)_ammeter
+D Contact-making (or breaking) ammeter
+K Contact-making (or breaking) ammeter
+$ENDCMP
+#
+$CMP Contact-making_(or_breaking)_clock
+D Contact-making (or breaking) clock
+K Contact-making (or breaking) clock
+$ENDCMP
+#
+$CMP Contact-making_(or_breaking)_voltmeter
+D Contact-making (or breaking) voltmeter
+K Contact-making (or breaking) voltmeter
+$ENDCMP
+#
+$CMP Coulombmeter
+D Coulombmeter
+K Coulombmeter
+$ENDCMP
+#
+$CMP DBM_Meter
+D DBM Meter
+K DBM Meter
+$ENDCMP
+#
+$CMP Decibel_Meter
+D Decibel Meter
+K Decibel Meter
+$ENDCMP
+#
+$CMP Demand-totalizing_relay
+D Demand-totalizing relay
+K Demand-totalizing relay
+$ENDCMP
+#
+$CMP Demand_meter
+D Demand meter
+K Demand meter
+$ENDCMP
+#
+$CMP Frequency_meter
+D Frequency meter
+K Frequency meter
+$ENDCMP
+#
+$CMP Galvanometer
+D Galvanometer
+K Galvanometer
+$ENDCMP
+#
+$CMP Ground_detector
+D Ground detector
+K Ground detector
+$ENDCMP
+#
+$CMP Indicating_meter
+D Indicating meter
+K Indicating meter
+$ENDCMP
+#
+$CMP Integrating_meter
+D Integrating meter
+K Integrating meter
+$ENDCMP
+#
+$CMP Microammeter
+D Microammeter
+K Microammeter
+$ENDCMP
+#
+$CMP Milliammeter
+D Milliammeter
+K Milliammeter
+$ENDCMP
+#
+$CMP Noise_meter
+D Noise meter
+K Noise meter
+$ENDCMP
+#
+$CMP Ohmmeter
+D Ohmmeter
+K Ohmmeter
+$ENDCMP
+#
+$CMP Oil_pressure_meter
+D Oil pressure meter
+K Oil pressure meter
+$ENDCMP
+#
+$CMP Oscilloscope
+D Oscilloscope
+K Oscilloscope
+$ENDCMP
+#
+$CMP Phasemeter
+D Phasemeter
+K Phasemeter
+$ENDCMP
+#
+$CMP Position_indicator
+D Position indicator
+K Position indicator
+$ENDCMP
+#
+$CMP Power_factor_meter
+D Power factor meter
+K Power factor meter
+$ENDCMP
+#
+$CMP Reactive_factor_meter
+D Reactive factor meter
+K Reactive factor meter
+$ENDCMP
+#
+$CMP Recording_demand_meter
+D Recording demand meter
+K Recording demand meter
+$ENDCMP
+#
+$CMP Recording_meter
+D Recording meter
+K Recording meter
+$ENDCMP
+#
+$CMP Salinity_Meter
+D Salinity Meter
+K Salinity Meter
+$ENDCMP
+#
+$CMP String_Oscillograph
+D String Oscillograph
+K String Oscillograph
+$ENDCMP
+#
+$CMP Synchroscope
+D Synchroscope
+K Synchroscope
+$ENDCMP
+#
+$CMP Tachometer
+D Tachometer
+K Tachometer
+$ENDCMP
+#
+$CMP Telemeter
+D Telemeter
+K Telemeter
+$ENDCMP
+#
+$CMP Temperature_meter
+D Temperature meter
+K Temperature meter
+$ENDCMP
+#
+$CMP Thermal_converter
+D Thermal converter
+K Thermal converter
+$ENDCMP
+#
+$CMP Total_time_meter
+D Total time meter
+K Total time meter
+$ENDCMP
+#
+$CMP Varhour_meter
+D Varhour meter
+K Varhour meter
+$ENDCMP
+#
+$CMP Varmeter
+D Varmeter
+K Varmeter
+$ENDCMP
+#
+$CMP Volt-ammeter
+D Volt-ammeter
+K Volt-ammeter
+$ENDCMP
+#
+$CMP Voltmeter
+D Voltmeter
+K Voltmeter
+$ENDCMP
+#
+$CMP Volume_indicator
+D Volume indicator
+K Volume indicator
+$ENDCMP
+#
+$CMP Watthour_meter
+D Watthour meter
+K Watthour meter
+$ENDCMP
+#
+$CMP Wattmeter
+D Wattmeter
+K Wattmeter
+$ENDCMP
+#
+#End Doc Library

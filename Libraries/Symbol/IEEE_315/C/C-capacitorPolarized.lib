@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3  Date: 07/07/2013 20:06:46
+#encoding utf-8
+#
+# Polarized_Capacitor
+#
+DEF ~Polarized_Capacitor C 0 10 N N 1 F N
+F0 "C" 65 76 40 H V L CNN
+F1 "Polarized_Capacitor" 68 3 30 H I L CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 150 0 30 H V C CNN "Unit"
+$FPLIST
+ CAPPAD*
+ CAPPADV*
+ CAPPAR*
+ CAPPARV*
+ CAPPRD*
+ CAPPRR*
+ CAPCP*
+ CAPCWR*
+ CAPMP*
+ CAPAE*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -55 50  -35 50 N
+P 2 0 1 0  -50 -15  50 -15 N
+P 2 0 1 0  -50 15  50 15 N
+P 2 0 1 0  -45 60  -45 40 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

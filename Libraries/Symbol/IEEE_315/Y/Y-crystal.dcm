@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRYSTAL
+D Crystal
+K Crystal
+$ENDCMP
+#
+$CMP CRYSTAL_MA-505
+D Crystal MA-505
+K Crystal MA-505
+$ENDCMP
+#
+$CMP CRYSTAL_MA-X06
+D Crystal MA-406, MA-506
+K Crystal MA-406 MA-506
+$ENDCMP
+#
+#End Doc Library

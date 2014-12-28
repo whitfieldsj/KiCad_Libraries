@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0  Date: 02/08/2013 10:01:23
+#
+$CMP Fuse
+D Fuse
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_AC
+D Fuse With Alarm Contact
+K Fuse Alarm Contact
+$ENDCMP
+#
+$CMP Fuse_ML
+D Fuse With Mechanical Linkage
+K Fuse Mechanical Linkage
+$ENDCMP
+#
+$CMP Fuse_SAC
+D Fuse With Seperate Alarm Circuit
+K Fuse Seperate Alarm Circuit
+$ENDCMP
+#
+#End Doc Library

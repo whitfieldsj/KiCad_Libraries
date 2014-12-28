@@ -1,0 +1,74 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Exposed_Pad
+#
+DEF ~Exposed_Pad U 0 35 Y Y 1 F N
+F0 "U" 0 90 40 H V C CNN
+F1 "Exposed_Pad" 0 -75 30 H I C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ (P)QF*
+$ENDFPLIST
+DRAW
+S -50 50 50 -50 0 1 0 N
+P 2 0 1 0  -50 -50  50 -50 N
+P 2 0 1 0  -50 -50  50 50 N
+P 2 0 1 0  -50 -10  10 50 N
+P 2 0 1 0  -50 30  -30 50 N
+P 2 0 1 0  -10 -50  50 10 N
+P 2 0 1 0  30 -50  50 -30 N
+X ~ ~ 100 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Exposed_Pad_Grounded
+#
+DEF ~Exposed_Pad_Grounded U 0 35 Y Y 1 F N
+F0 "U" 0 90 40 H V C CNN
+F1 "Exposed_Pad_Grounded" 0 -140 30 H I C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ (P)QF*
+$ENDFPLIST
+DRAW
+S -50 50 50 -50 0 1 0 N
+P 2 0 1 0  -50 -50  50 -50 N
+P 2 0 1 0  -50 -50  50 50 N
+P 2 0 1 0  -50 -10  10 50 N
+P 2 0 1 0  -50 30  -30 50 N
+P 2 0 1 0  -30 -80  30 -80 N
+P 2 0 1 0  -20 -90  20 -90 N
+P 2 0 1 0  -10 -100  10 -100 N
+P 2 0 1 0  -10 -90  10 -90 N
+P 2 0 1 0  -10 -50  50 10 N
+P 2 0 1 0  0 -80  0 -50 N
+P 2 0 1 0  30 -50  50 -30 N
+X Gnd 1 50 0 0 R 25 25 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Exposed_Pad_NC
+#
+DEF ~Exposed_Pad_NC U 0 35 Y Y 1 F N
+F0 "U" 0 90 40 H V C CNN
+F1 "Exposed_Pad_NC" 0 -75 30 H I C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ (P)QF*
+$ENDFPLIST
+DRAW
+S -50 50 50 -50 0 1 0 N
+P 2 0 1 0  -50 -50  50 -50 N
+P 2 0 1 0  -50 -50  50 50 N
+P 2 0 1 0  -50 -10  10 50 N
+P 2 0 1 0  -50 30  -30 50 N
+P 2 0 1 0  -10 -50  50 10 N
+P 2 0 1 0  30 -50  50 -30 N
+ENDDRAW
+ENDDEF
+#
+#End Library

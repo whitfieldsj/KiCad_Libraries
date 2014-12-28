@@ -1,0 +1,87 @@
+EESchema-LIBRARY Version 2.3  Date: 08/09/2013 16:04:15
+#encoding utf-8
+#
+# Thermistor
+#
+DEF ~Thermistor RT 0 0 N N 1 F N
+F0 "RT" -70 0 40 V V C CNN
+F1 "Thermistor" 100 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 100 0 40 V V C CNN "Unit"
+DRAW
+T 900 55 60 30 0 1 0 t°  Normal 0 C C
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Thermistor_L
+#
+DEF Thermistor_L RT 0 0 N N 1 F N
+F0 "RT" -70 0 40 V V C CNN
+F1 "Thermistor_L" 100 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 100 0 40 V V C CNN "Unit"
+DRAW
+P 2 0 0 0  50 -75  -50 75 N
+T 900 55 60 30 0 1 0 t°  Normal 0 C C
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Thermistor_NL
+#
+DEF Thermistor_NL RT 0 0 N N 1 F N
+F0 "RT" -70 0 40 V V C CNN
+F1 "Thermistor_NL" 100 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 100 0 40 V V C CNN "Unit"
+DRAW
+P 2 0 0 0  50 -75  -50 75 N
+P 2 0 0 0  50 -75  50 -100 N
+T 900 55 60 30 0 1 0 t°  Normal 0 C C
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Thermistor_NTC
+#
+DEF Thermistor_NTC RT 0 0 N N 1 F N
+F0 "RT" -70 0 40 V V C CNN
+F1 "Thermistor_NTC" 100 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 100 0 40 V V C CNN "Unit"
+DRAW
+T 900 55 40 30 0 1 0 -t°  Normal 0 C C
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Thermistor_PTC
+#
+DEF Thermistor_PTC RT 0 0 N N 1 F N
+F0 "RT" -70 0 40 V V C CNN
+F1 "Thermistor_PTC" 100 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 100 0 40 V V C CNN "Unit"
+DRAW
+T 900 55 40 30 0 1 0 +t°  Normal 0 C C
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

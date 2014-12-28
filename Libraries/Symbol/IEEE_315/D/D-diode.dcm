@@ -1,0 +1,93 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BIDIR_(AC)-(AC)_12
+D Bidirectional Diode
+K Bidirectional Diode
+$ENDCMP
+#
+$CMP BRKD_AA_12
+D Breakdown Diode
+K Breakdown Diode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-schottkyDiodes.ods
+$ENDCMP
+#
+$CMP COMA_ACC_123
+D Common Anode
+K Common Anode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-rectifierDiodes.ods
+$ENDCMP
+#
+$CMP COMACS_AC-(AC)_123
+D Double Schottky Diode, Common Anode/Cathode
+K Double Schottky Diode, Common Anode/Cathode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-schottkyDiodes.ods
+$ENDCMP
+#
+$CMP COMC_AAC_123
+D Common Cathode
+K Common Cathode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-rectifierDiodes.ods
+$ENDCMP
+#
+$CMP COMCS_AAC_123
+D Double Schottky Diode, Common Cathode
+K Double Schottky Diode, Common Cathode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-schottkyDiodes.ods
+$ENDCMP
+#
+$CMP CONC_CA_12
+D Constant Current Diode
+K Constant Current Diode
+$ENDCMP
+#
+$CMP PHOTO_CA_12
+D Photodiode
+K Photodiode
+$ENDCMP
+#
+$CMP PIN_CA_12
+D PIN Diode
+K PIN Diode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-PIN_CA_12.ods
+$ENDCMP
+#
+$CMP RECT_CA_12
+D Rectifier Diode
+K Rectifier Diode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-rectifierDiodes.ods
+$ENDCMP
+#
+$CMP SCTT_CA_12
+D Schottky Diode
+K Schottky Diode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-schottkyDiodes.ods
+$ENDCMP
+#
+$CMP SHCK_CA_12
+D Shockley Diode
+K Shockley Diode
+$ENDCMP
+#
+$CMP SWCH_CA_12
+D Small Signal Switching Diode
+K Small Signal Switching Diode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-smallSignalSwitchingDiodes.ods
+$ENDCMP
+#
+$CMP TUNN_CA_12
+D Tunnel Diode
+K Tunnel Diode
+$ENDCMP
+#
+$CMP VARA_CA_12
+D Varactor
+K Varactor
+$ENDCMP
+#
+$CMP ZEN_CA_12
+D Zener Diode
+K Zener Diode
+F G:/ApplicationFiles/KiCad/Documents/DataTables/D-zenerDiodes.ods
+$ENDCMP
+#
+#End Doc Library

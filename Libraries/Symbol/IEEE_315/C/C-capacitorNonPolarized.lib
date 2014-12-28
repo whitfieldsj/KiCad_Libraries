@@ -1,0 +1,49 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Non_Polarized_Capacitor
+#
+DEF ~Non_Polarized_Capacitor C 0 10 N N 1 F N
+F0 "C" 70 76 40 H V L CNN
+F1 "Non_Polarized_Capacitor" 73 0 30 H I L CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "Value" 150 0 30 H V C CNN "Unit"
+$FPLIST
+ CAPAD*
+ CAPADV*
+ CAPAR*
+ CAPARV*
+ CAPRD*
+ CAPRR*
+ CAPRB*
+ CAPC0*
+ CAPC1*
+ CAPC2*
+ CAPC3*
+ CAPC4*
+ CAPC5*
+ CAPC6*
+ CAPC7*
+ CAPC8*
+ CAPC9*
+ CAPM0*
+ CAPM1*
+ CAPM2*
+ CAPM3*
+ CAPM4*
+ CAPM5*
+ CAPM6*
+ CAPM7*
+ CAPM8*
+ CAPM9*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -50 -15  50 -15 N
+P 2 0 1 0  -50 15  50 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

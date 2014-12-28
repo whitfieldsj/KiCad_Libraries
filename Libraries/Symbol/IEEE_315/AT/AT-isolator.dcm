@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Mag_Isolator
+D Magnetic Isolator
+K Magnetic Isolator
+$ENDCMP
+#
+$CMP Opto_Isolator
+D Opto-Isolator
+K Opto-Isolator
+$ENDCMP
+#
+$CMP Opto_Isolator_LB
+D Opto-Isolator with Light Barrier
+K Opto-Isolator Light Barrier
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,1038 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DIN5_F
+D DIN5 Female Connector
+K DIN5 Female Connector
+$ENDCMP
+#
+$CMP DIN5_M
+D DIN5 Male Connector
+K DIN5 Male Connector
+$ENDCMP
+#
+$CMP HEADER_F_01
+D Female Header 1 Pin
+K Female Header 1X1
+$ENDCMP
+#
+$CMP HEADER_F_02
+D Female Header 2 Pins
+K Female Header 1X2
+$ENDCMP
+#
+$CMP HEADER_F_03
+D Female Header 3 Pins
+K Female Header 1X3
+$ENDCMP
+#
+$CMP HEADER_F_04
+D Female Header 4 Pins
+K Female Header 1X4 2X2
+$ENDCMP
+#
+$CMP HEADER_F_05
+D Female Header 5 Pins
+K Female Header 1X5
+$ENDCMP
+#
+$CMP HEADER_F_06
+D Female Header 6 Pins
+K Female Header 1X6 2X3
+$ENDCMP
+#
+$CMP HEADER_F_07
+D Female Header 7 Pins
+K Female Header 1X7
+$ENDCMP
+#
+$CMP HEADER_F_08
+D Female Header 8 Pins
+K Female Header 1X8 2X4
+$ENDCMP
+#
+$CMP HEADER_F_09
+D Female Header 9 Pins
+K Female Header 1X9
+$ENDCMP
+#
+$CMP HEADER_F_10
+D Female Header 10 Pins
+K Female Header 1X10 2X5
+$ENDCMP
+#
+$CMP HEADER_F_100
+D Female Header 100 Pins
+K Female Header 1X100 2X50
+$ENDCMP
+#
+$CMP HEADER_F_11
+D Female Header 11 Pins
+K Female Header 1X11
+$ENDCMP
+#
+$CMP HEADER_F_12
+D Female Header 12 Pins
+K Female Header 1X12 2X6
+$ENDCMP
+#
+$CMP HEADER_F_13
+D Female Header 13 Pins
+K Female Header 1X13
+$ENDCMP
+#
+$CMP HEADER_F_14
+D Female Header 14 Pins
+K Female Header 1X14 2X7
+$ENDCMP
+#
+$CMP HEADER_F_15
+D Female Header 15 Pins
+K Female Header 1X15
+$ENDCMP
+#
+$CMP HEADER_F_16
+D Female Header 16 Pins
+K Female Header 1X16 2X8
+$ENDCMP
+#
+$CMP HEADER_F_17
+D Female Header 17 Pins
+K Female Header 1X17
+$ENDCMP
+#
+$CMP HEADER_F_18
+D Female Header 18 Pins
+K Female Header 1X18 2X9
+$ENDCMP
+#
+$CMP HEADER_F_19
+D Female Header 19 Pins
+K Female Header 1X19
+$ENDCMP
+#
+$CMP HEADER_F_20
+D Female Header 20 Pins
+K Female Header 1X20 2X10
+$ENDCMP
+#
+$CMP HEADER_F_21
+D Female Header 21 Pins
+K Female Header 1X21
+$ENDCMP
+#
+$CMP HEADER_F_22
+D Female Header 22 Pins
+K Female Header 1X22 2X11
+$ENDCMP
+#
+$CMP HEADER_F_23
+D Female Header 23 Pins
+K Female Header 1X23
+$ENDCMP
+#
+$CMP HEADER_F_24
+D Female Header 24 Pins
+K Female Header 1X24 2X12
+$ENDCMP
+#
+$CMP HEADER_F_25
+D Female Header 25 Pins
+K Female Header 1X25
+$ENDCMP
+#
+$CMP HEADER_F_26
+D Female Header 26 Pins
+K Female Header 1X26 2X13
+$ENDCMP
+#
+$CMP HEADER_F_27
+D Female Header 27 Pins
+K Female Header 1X27
+$ENDCMP
+#
+$CMP HEADER_F_28
+D Female Header 28 Pins
+K Female Header 1X28 2X14
+$ENDCMP
+#
+$CMP HEADER_F_29
+D Female Header 29 Pins
+K Female Header 1X29
+$ENDCMP
+#
+$CMP HEADER_F_30
+D Female Header 30 Pins
+K Female Header 1X30 2X15
+$ENDCMP
+#
+$CMP HEADER_F_31
+D Female Header 31 Pins
+K Female Header 1X31
+$ENDCMP
+#
+$CMP HEADER_F_32
+D Female Header 32 Pins
+K Female Header 1X32 2X16
+$ENDCMP
+#
+$CMP HEADER_F_33
+D Female Header 33 Pins
+K Female Header 1X33
+$ENDCMP
+#
+$CMP HEADER_F_34
+D Female Header 34 Pins
+K Female Header 1X34 2X17
+$ENDCMP
+#
+$CMP HEADER_F_35
+D Female Header 35 Pins
+K Female Header 1X35
+$ENDCMP
+#
+$CMP HEADER_F_36
+D Female Header 36 Pins
+K Female Header 1X36 2X18
+$ENDCMP
+#
+$CMP HEADER_F_37
+D Female Header 37 Pins
+K Female Header 1X37
+$ENDCMP
+#
+$CMP HEADER_F_38
+D Female Header 38 Pins
+K Female Header 1X38 2X19
+$ENDCMP
+#
+$CMP HEADER_F_39
+D Female Header 39 Pins
+K Female Header 1X39
+$ENDCMP
+#
+$CMP HEADER_F_40
+D Female Header 40 Pins
+K Female Header 1X40 2X20
+$ENDCMP
+#
+$CMP HEADER_F_41
+D Female Header 41 Pins
+K Female Header 1X41
+$ENDCMP
+#
+$CMP HEADER_F_42
+D Female Header 42 Pins
+K Female Header 1X42 2X21
+$ENDCMP
+#
+$CMP HEADER_F_43
+D Female Header 43 Pins
+K Female Header 1X43
+$ENDCMP
+#
+$CMP HEADER_F_44
+D Female Header 44 Pins
+K Female Header 1X44 2X22
+$ENDCMP
+#
+$CMP HEADER_F_45
+D Female Header 45 Pins
+K Female Header 1X45
+$ENDCMP
+#
+$CMP HEADER_F_46
+D Female Header 46 Pins
+K Female Header 1X46 2X23
+$ENDCMP
+#
+$CMP HEADER_F_47
+D Female Header 47 Pins
+K Female Header 1X47
+$ENDCMP
+#
+$CMP HEADER_F_48
+D Female Header 48 Pins
+K Female Header 1X48 2X24
+$ENDCMP
+#
+$CMP HEADER_F_49
+D Female Header 49 Pins
+K Female Header 1X49
+$ENDCMP
+#
+$CMP HEADER_F_50
+D Female Header 50 Pins
+K Female Header 1X50 2X25
+$ENDCMP
+#
+$CMP HEADER_F_51
+D Female Header 51 Pins
+K Female Header 1X51
+$ENDCMP
+#
+$CMP HEADER_F_52
+D Female Header 52 Pins
+K Female Header 1X52 2X26
+$ENDCMP
+#
+$CMP HEADER_F_53
+D Female Header 53 Pins
+K Female Header 1X53
+$ENDCMP
+#
+$CMP HEADER_F_54
+D Female Header 54 Pins
+K Female Header 1X54 2X27
+$ENDCMP
+#
+$CMP HEADER_F_55
+D Female Header 55 Pins
+K Female Header 1X55
+$ENDCMP
+#
+$CMP HEADER_F_56
+D Female Header 56 Pins
+K Female Header 1X56 2X28
+$ENDCMP
+#
+$CMP HEADER_F_57
+D Female Header 57 Pins
+K Female Header 1X57
+$ENDCMP
+#
+$CMP HEADER_F_58
+D Female Header 58 Pins
+K Female Header 1X58 2X29
+$ENDCMP
+#
+$CMP HEADER_F_59
+D Female Header 59 Pins
+K Female Header 1X59
+$ENDCMP
+#
+$CMP HEADER_F_60
+D Female Header 60 Pins
+K Female Header 1X60 2X30
+$ENDCMP
+#
+$CMP HEADER_F_61
+D Female Header 61 Pins
+K Female Header 1X61
+$ENDCMP
+#
+$CMP HEADER_F_62
+D Female Header 62 Pins
+K Female Header 1X62 2X31
+$ENDCMP
+#
+$CMP HEADER_F_63
+D Female Header 63 Pins
+K Female Header 1X63
+$ENDCMP
+#
+$CMP HEADER_F_64
+D Female Header 64 Pins
+K Female Header 1X64 2X32
+$ENDCMP
+#
+$CMP HEADER_F_65
+D Female Header 65 Pins
+K Female Header 1X65
+$ENDCMP
+#
+$CMP HEADER_F_66
+D Female Header 66 Pins
+K Female Header 1X66 2X33
+$ENDCMP
+#
+$CMP HEADER_F_67
+D Female Header 67 Pins
+K Female Header 1X67
+$ENDCMP
+#
+$CMP HEADER_F_68
+D Female Header 68 Pins
+K Female Header 1X68 2X34
+$ENDCMP
+#
+$CMP HEADER_F_69
+D Female Header 69 Pins
+K Female Header 1X69
+$ENDCMP
+#
+$CMP HEADER_F_70
+D Female Header 70 Pins
+K Female Header 1X70 2X35
+$ENDCMP
+#
+$CMP HEADER_F_71
+D Female Header 71 Pins
+K Female Header 1X71
+$ENDCMP
+#
+$CMP HEADER_F_72
+D Female Header 72 Pins
+K Female Header 1X72 2X36
+$ENDCMP
+#
+$CMP HEADER_F_73
+D Female Header 73 Pins
+K Female Header 1X73
+$ENDCMP
+#
+$CMP HEADER_F_74
+D Female Header 74 Pins
+K Female Header 1X74 2X37
+$ENDCMP
+#
+$CMP HEADER_F_75
+D Female Header 75 Pins
+K Female Header 1X75
+$ENDCMP
+#
+$CMP HEADER_F_76
+D Female Header 76 Pins
+K Female Header 1X76 2X38
+$ENDCMP
+#
+$CMP HEADER_F_77
+D Female Header 77 Pins
+K Female Header 1X77
+$ENDCMP
+#
+$CMP HEADER_F_78
+D Female Header 78 Pins
+K Female Header 1X78 2X39
+$ENDCMP
+#
+$CMP HEADER_F_79
+D Female Header 79 Pins
+K Female Header 1X79
+$ENDCMP
+#
+$CMP HEADER_F_80
+D Female Header 80 Pins
+K Female Header 1X80 2X40
+$ENDCMP
+#
+$CMP HEADER_F_81
+D Female Header 81 Pins
+K Female Header 1X81
+$ENDCMP
+#
+$CMP HEADER_F_82
+D Female Header 82 Pins
+K Female Header 1X82 2X41
+$ENDCMP
+#
+$CMP HEADER_F_83
+D Female Header 83 Pins
+K Female Header 1X83
+$ENDCMP
+#
+$CMP HEADER_F_84
+D Female Header 84 Pins
+K Female Header 1X84 2X42
+$ENDCMP
+#
+$CMP HEADER_F_85
+D Female Header 85 Pins
+K Female Header 1X85
+$ENDCMP
+#
+$CMP HEADER_F_86
+D Female Header 86 Pins
+K Female Header 1X86 2X43
+$ENDCMP
+#
+$CMP HEADER_F_87
+D Female Header 87 Pins
+K Female Header 1X87
+$ENDCMP
+#
+$CMP HEADER_F_88
+D Female Header 88 Pins
+K Female Header 1X88 2X44
+$ENDCMP
+#
+$CMP HEADER_F_89
+D Female Header 89 Pins
+K Female Header 1X89
+$ENDCMP
+#
+$CMP HEADER_F_90
+D Female Header 90 Pins
+K Female Header 1X90 2X45
+$ENDCMP
+#
+$CMP HEADER_F_91
+D Female Header 91 Pins
+K Female Header 1X91
+$ENDCMP
+#
+$CMP HEADER_F_92
+D Female Header 92 Pins
+K Female Header 1X92 2X46
+$ENDCMP
+#
+$CMP HEADER_F_93
+D Female Header 93 Pins
+K Female Header 1X93
+$ENDCMP
+#
+$CMP HEADER_F_94
+D Female Header 94 Pins
+K Female Header 1X94 2X47
+$ENDCMP
+#
+$CMP HEADER_F_95
+D Female Header 95 Pins
+K Female Header 1X95
+$ENDCMP
+#
+$CMP HEADER_F_96
+D Female Header 96 Pins
+K Female Header 1X96 2X48
+$ENDCMP
+#
+$CMP HEADER_F_97
+D Female Header 97 Pins
+K Female Header 1X97
+$ENDCMP
+#
+$CMP HEADER_F_98
+D Female Header 98 Pins
+K Female Header 1X98 2X49
+$ENDCMP
+#
+$CMP HEADER_F_99
+D Female Header 99 Pins
+K Female Header 1X99
+$ENDCMP
+#
+$CMP HEADER_M_01
+D Male Header 1 Pin
+K Male Header 1X1
+$ENDCMP
+#
+$CMP HEADER_M_02
+D Male Header 2 Pins
+K Male Header 1X2
+$ENDCMP
+#
+$CMP HEADER_M_03
+D Male Header 3 Pins
+K Male Header 1X3
+$ENDCMP
+#
+$CMP HEADER_M_04
+D Male Header 4 Pins
+K Male Header 1X4 2X2
+$ENDCMP
+#
+$CMP HEADER_M_05
+D Male Header 5 Pins
+K Male Header 1X5
+$ENDCMP
+#
+$CMP HEADER_M_06
+D Male Header 6 Pins
+K Male Header 1X6 2X3
+$ENDCMP
+#
+$CMP HEADER_M_07
+D Male Header 7 Pins
+K Male Header 1X7
+$ENDCMP
+#
+$CMP HEADER_M_08
+D Male Header 8 Pins
+K Male Header 1X8 2X4
+$ENDCMP
+#
+$CMP HEADER_M_09
+D Male Header 9 Pins
+K Male Header 1X9
+$ENDCMP
+#
+$CMP HEADER_M_10
+D Male Header 10 Pins
+K Male Header 1X10 2X5
+$ENDCMP
+#
+$CMP HEADER_M_100
+D Male Header 100 Pins
+K Male Header 1X100 2X50
+$ENDCMP
+#
+$CMP HEADER_M_11
+D Male Header 11 Pins
+K Male Header 1X11
+$ENDCMP
+#
+$CMP HEADER_M_12
+D Male Header 12 Pins
+K Male Header 1X12 2X6
+$ENDCMP
+#
+$CMP HEADER_M_13
+D Male Header 13 Pins
+K Male Header 1X13
+$ENDCMP
+#
+$CMP HEADER_M_14
+D Male Header 14 Pins
+K Male Header 1X14 2X7
+$ENDCMP
+#
+$CMP HEADER_M_15
+D Male Header 15 Pins
+K Male Header 1X15
+$ENDCMP
+#
+$CMP HEADER_M_16
+D Male Header 16 Pins
+K Male Header 1X16 2X8
+$ENDCMP
+#
+$CMP HEADER_M_17
+D Male Header 17 Pins
+K Male Header 1X17
+$ENDCMP
+#
+$CMP HEADER_M_18
+D Male Header 18 Pins
+K Male Header 1X18 2X9
+$ENDCMP
+#
+$CMP HEADER_M_19
+D Male Header 19 Pins
+K Male Header 1X19
+$ENDCMP
+#
+$CMP HEADER_M_20
+D Male Header 20 Pins
+K Male Header 1X20 2X10
+$ENDCMP
+#
+$CMP HEADER_M_21
+D Male Header 21 Pins
+K Male Header 1X21
+$ENDCMP
+#
+$CMP HEADER_M_22
+D Male Header 22 Pins
+K Male Header 1X22 2X11
+$ENDCMP
+#
+$CMP HEADER_M_23
+D Male Header 23 Pins
+K Male Header 1X23
+$ENDCMP
+#
+$CMP HEADER_M_24
+D Male Header 24 Pins
+K Male Header 1X24 2X12
+$ENDCMP
+#
+$CMP HEADER_M_25
+D Male Header 25 Pins
+K Male Header 1X25
+$ENDCMP
+#
+$CMP HEADER_M_26
+D Male Header 26 Pins
+K Male Header 1X26 2X13
+$ENDCMP
+#
+$CMP HEADER_M_27
+D Male Header 27 Pins
+K Male Header 1X27
+$ENDCMP
+#
+$CMP HEADER_M_28
+D Male Header 28 Pins
+K Male Header 1X28 2X14
+$ENDCMP
+#
+$CMP HEADER_M_29
+D Male Header 29 Pins
+K Male Header 1X29
+$ENDCMP
+#
+$CMP HEADER_M_30
+D Male Header 30 Pins
+K Male Header 1X30 2X15
+$ENDCMP
+#
+$CMP HEADER_M_31
+D Male Header 31 Pins
+K Male Header 1X31
+$ENDCMP
+#
+$CMP HEADER_M_32
+D Male Header 32 Pins
+K Male Header 1X32 2X16
+$ENDCMP
+#
+$CMP HEADER_M_33
+D Male Header 33 Pins
+K Male Header 1X33
+$ENDCMP
+#
+$CMP HEADER_M_34
+D Male Header 34 Pins
+K Male Header 1X34 2X17
+$ENDCMP
+#
+$CMP HEADER_M_35
+D Male Header 35 Pins
+K Male Header 1X35
+$ENDCMP
+#
+$CMP HEADER_M_36
+D Male Header 36 Pins
+K Male Header 1X36 2X18
+$ENDCMP
+#
+$CMP HEADER_M_37
+D Male Header 37 Pins
+K Male Header 1X37
+$ENDCMP
+#
+$CMP HEADER_M_38
+D Male Header 38 Pins
+K Male Header 1X38 2X19
+$ENDCMP
+#
+$CMP HEADER_M_39
+D Male Header 39 Pins
+K Male Header 1X39
+$ENDCMP
+#
+$CMP HEADER_M_40
+D Male Header 40 Pins
+K Male Header 1X40 2X20
+$ENDCMP
+#
+$CMP HEADER_M_41
+D Male Header 41 Pins
+K Male Header 1X41
+$ENDCMP
+#
+$CMP HEADER_M_42
+D Male Header 42 Pins
+K Male Header 1X42 2X21
+$ENDCMP
+#
+$CMP HEADER_M_43
+D Male Header 43 Pins
+K Male Header 1X43
+$ENDCMP
+#
+$CMP HEADER_M_44
+D Male Header 44 Pins
+K Male Header 1X44 2X22
+$ENDCMP
+#
+$CMP HEADER_M_45
+D Male Header 45 Pins
+K Male Header 1X45
+$ENDCMP
+#
+$CMP HEADER_M_46
+D Male Header 46 Pins
+K Male Header 1X46 2X23
+$ENDCMP
+#
+$CMP HEADER_M_47
+D Male Header 47 Pins
+K Male Header 1X47
+$ENDCMP
+#
+$CMP HEADER_M_48
+D Male Header 48 Pins
+K Male Header 1X48 2X24
+$ENDCMP
+#
+$CMP HEADER_M_49
+D Male Header 49 Pins
+K Male Header 1X49
+$ENDCMP
+#
+$CMP HEADER_M_50
+D Male Header 50 Pins
+K Male Header 1X50 2X25
+$ENDCMP
+#
+$CMP HEADER_M_51
+D Male Header 51 Pins
+K Male Header 1X51
+$ENDCMP
+#
+$CMP HEADER_M_52
+D Male Header 52 Pins
+K Male Header 1X52 2X26
+$ENDCMP
+#
+$CMP HEADER_M_53
+D Male Header 53 Pins
+K Male Header 1X53
+$ENDCMP
+#
+$CMP HEADER_M_54
+D Male Header 54 Pins
+K Male Header 1X54 2X27
+$ENDCMP
+#
+$CMP HEADER_M_55
+D Male Header 55 Pins
+K Male Header 1X55
+$ENDCMP
+#
+$CMP HEADER_M_56
+D Male Header 56 Pins
+K Male Header 1X56 2X28
+$ENDCMP
+#
+$CMP HEADER_M_57
+D Male Header 57 Pins
+K Male Header 1X57
+$ENDCMP
+#
+$CMP HEADER_M_58
+D Male Header 58 Pins
+K Male Header 1X58 2X29
+$ENDCMP
+#
+$CMP HEADER_M_59
+D Male Header 59 Pins
+K Male Header 1X59
+$ENDCMP
+#
+$CMP HEADER_M_60
+D Male Header 60 Pins
+K Male Header 1X60 2X30
+$ENDCMP
+#
+$CMP HEADER_M_61
+D Male Header 61 Pins
+K Male Header 1X61
+$ENDCMP
+#
+$CMP HEADER_M_62
+D Male Header 62 Pins
+K Male Header 1X62 2X31
+$ENDCMP
+#
+$CMP HEADER_M_63
+D Male Header 63 Pins
+K Male Header 1X63
+$ENDCMP
+#
+$CMP HEADER_M_64
+D Male Header 64 Pins
+K Male Header 1X64 2X32
+$ENDCMP
+#
+$CMP HEADER_M_65
+D Male Header 65 Pins
+K Male Header 1X65
+$ENDCMP
+#
+$CMP HEADER_M_66
+D Male Header 66 Pins
+K Male Header 1X66 2X33
+$ENDCMP
+#
+$CMP HEADER_M_67
+D Male Header 67 Pins
+K Male Header 1X67
+$ENDCMP
+#
+$CMP HEADER_M_68
+D Male Header 68 Pins
+K Male Header 1X68 2X34
+$ENDCMP
+#
+$CMP HEADER_M_69
+D Male Header 69 Pins
+K Male Header 1X69
+$ENDCMP
+#
+$CMP HEADER_M_70
+D Male Header 70 Pins
+K Male Header 1X70 2X35
+$ENDCMP
+#
+$CMP HEADER_M_71
+D Male Header 71 Pins
+K Male Header 1X71
+$ENDCMP
+#
+$CMP HEADER_M_72
+D Male Header 72 Pins
+K Male Header 1X72 2X36
+$ENDCMP
+#
+$CMP HEADER_M_73
+D Male Header 73 Pins
+K Male Header 1X73
+$ENDCMP
+#
+$CMP HEADER_M_74
+D Male Header 74 Pins
+K Male Header 1X74 2X37
+$ENDCMP
+#
+$CMP HEADER_M_75
+D Male Header 75 Pins
+K Male Header 1X75
+$ENDCMP
+#
+$CMP HEADER_M_76
+D Male Header 76 Pins
+K Male Header 1X76 2X38
+$ENDCMP
+#
+$CMP HEADER_M_77
+D Male Header 77 Pins
+K Male Header 1X77
+$ENDCMP
+#
+$CMP HEADER_M_78
+D Male Header 78 Pins
+K Male Header 1X78 2X39
+$ENDCMP
+#
+$CMP HEADER_M_79
+D Male Header 79 Pins
+K Male Header 1X79
+$ENDCMP
+#
+$CMP HEADER_M_80
+D Male Header 80 Pins
+K Male Header 1X80 2X40
+$ENDCMP
+#
+$CMP HEADER_M_81
+D Male Header 81 Pins
+K Male Header 1X81
+$ENDCMP
+#
+$CMP HEADER_M_82
+D Male Header 82 Pins
+K Male Header 1X82 2X41
+$ENDCMP
+#
+$CMP HEADER_M_83
+D Male Header 83 Pins
+K Male Header 1X83
+$ENDCMP
+#
+$CMP HEADER_M_84
+D Male Header 84 Pins
+K Male Header 1X84 2X42
+$ENDCMP
+#
+$CMP HEADER_M_85
+D Male Header 85 Pins
+K Male Header 1X85
+$ENDCMP
+#
+$CMP HEADER_M_86
+D Male Header 86 Pins
+K Male Header 1X86 2X43
+$ENDCMP
+#
+$CMP HEADER_M_87
+D Male Header 87 Pins
+K Male Header 1X87
+$ENDCMP
+#
+$CMP HEADER_M_88
+D Male Header 88 Pins
+K Male Header 1X88 2X44
+$ENDCMP
+#
+$CMP HEADER_M_89
+D Male Header 89 Pins
+K Male Header 1X89
+$ENDCMP
+#
+$CMP HEADER_M_90
+D Male Header 90 Pins
+K Male Header 1X90 2X45
+$ENDCMP
+#
+$CMP HEADER_M_91
+D Male Header 91 Pins
+K Male Header 1X91
+$ENDCMP
+#
+$CMP HEADER_M_92
+D Male Header 92 Pins
+K Male Header 1X92 2X46
+$ENDCMP
+#
+$CMP HEADER_M_93
+D Male Header 93 Pins
+K Male Header 1X93
+$ENDCMP
+#
+$CMP HEADER_M_94
+D Male Header 94 Pins
+K Male Header 1X94 2X47
+$ENDCMP
+#
+$CMP HEADER_M_95
+D Male Header 95 Pins
+K Male Header 1X95
+$ENDCMP
+#
+$CMP HEADER_M_96
+D Male Header 96 Pins
+K Male Header 1X96 2X48
+$ENDCMP
+#
+$CMP HEADER_M_97
+D Male Header 97 Pins
+K Male Header 1X97
+$ENDCMP
+#
+$CMP HEADER_M_98
+D Male Header 98 Pins
+K Male Header 1X98 2X49
+$ENDCMP
+#
+$CMP HEADER_M_99
+D Male Header 99 Pins
+K Male Header 1X99
+$ENDCMP
+#
+$CMP RJ12
+D RJ12 Connector
+K RJ12 Connector
+$ENDCMP
+#
+$CMP RJ45
+D RJ45 Connector Unsheilded
+K RJ45 Connector Unsheilded
+$ENDCMP
+#
+$CMP RJ45S
+D RJ45 Connector Sheilded
+K RJ45 Connector Sheilded
+$ENDCMP
+#
+$CMP USB_F
+D USB Female Connector
+K USB Female Connector
+$ENDCMP
+#
+$CMP USB_M
+D USB Male Connector
+K USB Male Connector
+$ENDCMP
+#
+#End Doc Library

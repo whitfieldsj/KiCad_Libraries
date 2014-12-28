@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC10F200-DL
+D Microchip PIC10F200, 8-Bit, DIL Package
+K PIC10 Microchip PIC10F200 Baseline 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F200-ST
+D Microchip PIC10F200, 8-Bit, SOT Package
+K PIC10 Microchip PIC10F200 Baseline 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F202-DL
+D Microchip PIC10F202, 8-Bit, DIL Package
+K PIC10 Microchip PIC10F202 Baseline 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F202-ST
+D Microchip PIC10F202, 8-Bit, SOT Package
+K PIC10 Microchip PIC10F202 Baseline 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F204-DL
+D Microchip PIC10F204, 8-Bit, DIL Package
+K PIC10 Microchip PIC10F204 Baseline 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F204-ST
+D Microchip PIC10F204, 8-Bit, SOT Package
+K PIC10 Microchip PIC10F204 Baseline 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F206-DL
+D Microchip PIC10F206, 8-Bit, DIL Package
+K PIC10 Microchip PIC10F206 Baseline 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F206-ST
+D Microchip PIC10F206, 8-Bit, SOT Package
+K PIC10 Microchip PIC10F206 Baseline 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F320-DL
+D Microchip PIC10F320, 8-Bit, DIL Package
+K PIC10 Microchip PIC10F320 Midrange 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F320-ST
+D Microchip PIC10F320, 8-Bit, SOT Package
+K PIC10 Microchip PIC10F320 Midrange 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F322-DL
+D Microchip PIC10F322, 8-Bit, DIL Package
+K PIC10 Microchip PIC10F322 Midrange 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+$CMP PIC10F322-ST
+D Microchip PIC10F322, 8-Bit, SOT Package
+K PIC10 Microchip PIC10F322 Midrange 8-Bit
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-microcontrollers.ods
+$ENDCMP
+#
+#End Doc Library

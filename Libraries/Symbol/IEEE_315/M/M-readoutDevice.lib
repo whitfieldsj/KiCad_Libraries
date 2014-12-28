@@ -1,0 +1,655 @@
+EESchema-LIBRARY Version 2.3  Date: 08/06/2013 07:59:30
+#encoding utf-8
+#
+# Ammeter
+#
+DEF ~Ammeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Ammeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 A  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Ampere_Hour_Meter
+#
+DEF ~Ampere_Hour_Meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Ampere_Hour_Meter" 25 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 AH  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Audio-level_meter
+#
+DEF ~Audio-level_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Audio-level_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 VU  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Contact-making_(or_breaking)_ammeter
+#
+DEF ~Contact-making_(or_breaking)_ammeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Contact-making_(or_breaking)_ammeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 CMA  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Contact-making_(or_breaking)_clock
+#
+DEF ~Contact-making_(or_breaking)_clock M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Contact-making_(or_breaking)_clock" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 CMC  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Contact-making_(or_breaking)_voltmeter
+#
+DEF ~Contact-making_(or_breaking)_voltmeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Contact-making_(or_breaking)_voltmeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 CMV  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Coulombmeter
+#
+DEF ~Coulombmeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Coulombmeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 C  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DBM_Meter
+#
+DEF ~DBM_Meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "DBM_Meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 DBM  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Decibel_Meter
+#
+DEF ~Decibel_Meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Decibel_Meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 DB  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Demand-totalizing_relay
+#
+DEF ~Demand-totalizing_relay M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Demand-totalizing_relay" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 DTR  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Demand_meter
+#
+DEF ~Demand_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Demand_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 DM  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Frequency_meter
+#
+DEF ~Frequency_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Frequency_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 Hz  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Galvanometer
+#
+DEF ~Galvanometer M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Galvanometer" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+P 5 0 0 0  0 -50  0 50  -10 30  10 30  0 50 F
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Ground_detector
+#
+DEF ~Ground_detector M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Ground_detector" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 GD  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Indicating_meter
+#
+DEF ~Indicating_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Indicating_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 I  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Integrating_meter
+#
+DEF ~Integrating_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Integrating_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 INT  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Microammeter
+#
+DEF ~Microammeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Microammeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 UA  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Milliammeter
+#
+DEF ~Milliammeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Milliammeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 MA  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Noise_meter
+#
+DEF ~Noise_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Noise_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 NM  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Ohmmeter
+#
+DEF ~Ohmmeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Ohmmeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 OHM  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Oil_pressure_meter
+#
+DEF ~Oil_pressure_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Oil_pressure_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 OP  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Oscilloscope
+#
+DEF ~Oscilloscope M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Oscilloscope" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+P 2 0 0 0  20 0  50 10 N
+P 2 0 0 0  20 30  -50 0 N
+P 2 0 0 0  20 30  20 0 N
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Phasemeter
+#
+DEF ~Phasemeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Phasemeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 PH  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Position_indicator
+#
+DEF ~Position_indicator M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Position_indicator" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 PI  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Power_factor_meter
+#
+DEF ~Power_factor_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Power_factor_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 PF  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Reactive_factor_meter
+#
+DEF ~Reactive_factor_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Reactive_factor_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 RF  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Recording_demand_meter
+#
+DEF ~Recording_demand_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Recording_demand_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 RD  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Recording_meter
+#
+DEF ~Recording_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Recording_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 REC  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Salinity_Meter
+#
+DEF ~Salinity_Meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Salinity_Meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 50 0 0 0 NaCl  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# String_Oscillograph
+#
+DEF ~String_Oscillograph M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "String_Oscillograph" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 50 0 0 0 OSCG  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Synchroscope
+#
+DEF ~Synchroscope M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Synchroscope" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+A 0 0 72 336 1463 0 0 0 N 60 40 -60 40
+P 2 0 0 0  0 72  0 -72 N
+P 2 0 0 0  60 40  60 40 N
+P 4 0 0 0  -60 40  -52 62  -38 48  -60 40 F
+P 4 0 0 0  60 40  52 62  38 48  60 40 F
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Tachometer
+#
+DEF ~Tachometer M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Tachometer" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 n  Italic 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Telemeter
+#
+DEF ~Telemeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Telemeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 TLM  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Temperature_meter
+#
+DEF ~Temperature_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Temperature_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 t°  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Thermal_converter
+#
+DEF ~Thermal_converter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Thermal_converter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 THC  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Total_time_meter
+#
+DEF ~Total_time_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Total_time_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 TT  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Varhour_meter
+#
+DEF ~Varhour_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Varhour_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 50 0 0 0 VarH  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Varmeter
+#
+DEF ~Varmeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Varmeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 Var  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Volt-ammeter
+#
+DEF ~Volt-ammeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Volt-ammeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 VA  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Voltmeter
+#
+DEF ~Voltmeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Voltmeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 V  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Volume_indicator
+#
+DEF ~Volume_indicator M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Volume_indicator" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 VI  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Watthour_meter
+#
+DEF ~Watthour_meter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Watthour_meter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 WH  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Wattmeter
+#
+DEF ~Wattmeter M 0 40 N Y 1 F N
+F0 "M" 0 150 40 H V C CNN
+F1 "Wattmeter" 0 -125 30 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 0 60 0 0 0 W  Normal 0 C C
+C 0 0 100 0 1 0 N
+X ~ 1 -150 0 50 R 25 25 1 1 P
+X ~ 2 150 0 50 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

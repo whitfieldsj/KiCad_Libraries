@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0  Date: 24/06/2013 10:34:28
+#
+$CMP IND
+D Inductor
+K Inductor
+$ENDCMP
+#
+$CMP IND_ADJ
+D Inductor, Adjustable
+K Inductor Adjustable
+$ENDCMP
+#
+$CMP IND_CA
+D Inductor, Continuously Adjustable
+K Inductor Continuously Adjustable
+$ENDCMP
+#
+$CMP IND_MC
+D Inductor, Magnetic Core
+K Inductor Magnetic Core
+$ENDCMP
+#
+$CMP IND_TAP
+D Inductor, Tapped
+K Inductor Tapped
+$ENDCMP
+#
+#End Doc Library

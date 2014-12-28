@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Exposed_Pad
+D Exposed Pad
+K Exposed Pad
+$ENDCMP
+#
+$CMP Exposed_Pad_Grounded
+D Exposed Pad, Grounded
+K Exposed Pad Grounded
+$ENDCMP
+#
+$CMP Exposed_Pad_NC
+D Exposed Pad, No Connection
+K Exposed Pad NC
+$ENDCMP
+#
+#End Doc Library

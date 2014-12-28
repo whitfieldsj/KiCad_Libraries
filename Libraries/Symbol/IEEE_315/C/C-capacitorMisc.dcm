@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0  Date: 06/07/2013 10:05:00
+#
+$CMP CADJ
+D Variable Capacitor
+K Variable Capacitor
+$ENDCMP
+#
+$CMP CPA
+D Capacitor with Preset Adjustment
+K Capacitor Preset Adjustment
+$ENDCMP
+#
+$CMP CSH
+D Shielded Capacitor
+K Shielded Capacitor
+$ENDCMP
+#
+$CMP TDPC
+D Temperature Dependant Polarized Capacitor
+K Temperature Dependant Polarized Capacitor
+$ENDCMP
+#
+$CMP VDPC
+D Voltage Dependant Polarized Capacitor
+K Voltage Dependant Polarized Capacitor
+$ENDCMP
+#
+#End Doc Library

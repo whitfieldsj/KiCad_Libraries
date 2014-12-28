@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0  Date: 24/06/2013 11:42:51
+#
+$CMP BAND-PASS
+D Band-Pass Filter
+K Band-Pass Filter
+$ENDCMP
+#
+$CMP BAND-STOP
+D Band-Stop Filter
+K Band-Stop Filter
+$ENDCMP
+#
+$CMP FILTER
+D Filter
+K Filter
+$ENDCMP
+#
+$CMP HIGH-PASS
+D High-Pass Filter
+K High-Pass Filter
+$ENDCMP
+#
+$CMP INTERFERENCE
+D Interference Filter
+K Interference Filter
+$ENDCMP
+#
+$CMP LOW-PASS
+D Low-Pass Filter
+K Low-Pass Filter
+$ENDCMP
+#
+$CMP MODE
+D Mode Filter
+K Mode Filter
+$ENDCMP
+#
+#End Doc Library

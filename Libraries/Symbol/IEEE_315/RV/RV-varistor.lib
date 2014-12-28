@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3  Date: 08/09/2013 16:13:42
+#encoding utf-8
+#
+# Varistor
+#
+DEF ~Varistor RV 0 0 N N 1 F N
+F0 "RV" -70 0 40 V V C CNN
+F1 "Varistor" 100 0 30 V I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+F4 "Value" 100 0 40 V V C CNN "Unit"
+DRAW
+P 2 0 0 0  50 -75  -50 75 N
+P 2 0 0 0  50 -75  50 -100 N
+S -25 75 25 -75 0 1 0 N
+X ~ 1 0 100 25 D 25 25 1 1 P
+X ~ 2 0 -100 25 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

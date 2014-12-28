@@ -1,0 +1,135 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 741G123
+D Single Monostable Multivibrator With Schmitt-Trigger Inputs
+K Monostable Multivibrator LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G139
+D Single 1-of-2 Noninverting Demultiplexer With 3-State Deselected Output
+K Demultiplexer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G175
+D Single D-Type Flip-Flop With Asynchronous Clear
+K Flip-Flop LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G18
+D Single 1-of-2 Noninverting Demultiplexer With 3-State Deselected Output
+K Demultiplexer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G19
+D Single 1-of-2 Demultiplexer
+K Demultiplexer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G29
+D 2-Of-3 Decoder/Demultiplexer
+K DecoderDemultiplexer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G3157
+D Single SPDT Switch
+K Switch LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G373
+D Single D-Type Latch With Tri-State Output
+K Latch LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G374
+D Single D-Type Flip-Flop With Tri-State Output
+K Flip-Flop LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G66
+D Single Bilateral Analogue Switch
+K Analogue Switch LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G74
+D Single Positive Edge-Triggered D-Type Flip-Flop With Preset and Clear
+K Flip-Flop LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G79
+D Single Positive Edge-Triggered D-Type Flip-Flop
+K Flip-Flop LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741G80
+D Single Positive Edge-Triggered D-Type Flip-Flop
+K Flip-Flop LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741GX04
+D Crystal Oscillator Driver
+K Oscillator Driver LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T157
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output Single 2-Input Schmitt-Trigger Buffer Multiplexer
+K Voltage Translator Multiplexer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 741T158
+D 1.8/2.5/3.3-V Input 3.3-V CMOS Output Single 2-Input Schmitt-Trigger Buffer Multiplexer (Inverted)
+K Voltage Translator Multiplexer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G157
+D Single 2-Line to 1-Line Data Selector/Multiplexer
+K Data Selector Multiplexer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G53
+D Single SPDT Switch or 2:1 Analogue Multiplexer/Demultiplexer
+K Switch Multiplexer Demultiplexer LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G66
+D Dual Bilateral Analogue Switch
+K Analogue Switch LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G74
+D Single Positive Edge-Triggered D-Type Flip-Flop With Preset and Clear
+K Flip-Flop LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G79
+D Dual Positive Edge-Triggered D-Type Flip-Flop
+K Flip-Flop LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+$CMP 742G80
+D Dual Positive Edge-Triggered D-Type Flip-Flop
+K Flip-Flop LL
+F G:/ApplicationFiles/KiCad/Documents/DataTables/U-digitalLogic.ods
+$ENDCMP
+#
+#End Doc Library

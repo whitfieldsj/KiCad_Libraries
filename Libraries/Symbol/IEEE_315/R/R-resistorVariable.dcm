@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0  Date: 24/06/2013 12:47:28
+#
+$CMP Magnetoresistor
+D Magnetoresistor
+K Magnetoresistor
+$ENDCMP
+#
+$CMP PAR
+D Preset Adjustable Resistor
+K Preset Adjustable Resistor
+$ENDCMP
+#
+$CMP PHOTO_RESISTOR
+D Photo Resistor
+K Photo Resistor
+$ENDCMP
+#
+$CMP POTENTIOMETER
+D Potentiometer
+K Potentiometer
+$ENDCMP
+#
+$CMP RHEOSTAT
+D Rheostat
+K Rheostat
+$ENDCMP
+#
+$CMP TAPPED_R
+D Tapped Resistor
+K Tapped Resistor
+$ENDCMP
+#
+#End Doc Library
