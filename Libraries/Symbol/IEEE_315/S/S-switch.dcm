@@ -25,6 +25,11 @@ D Push Button Make Contact, Automatic Return
 K Push Button Make Contact Automatic Return
 $ENDCMP
 #
+$CMP Push_MC_L
+D Push Button Make Contact, Latched
+K Push Button Make Contact Latched
+$ENDCMP
+#
 $CMP Push_MC_Pos
 D Push Button, Positive Action of Make Contact
 K Push Button Positive Action Make Contact

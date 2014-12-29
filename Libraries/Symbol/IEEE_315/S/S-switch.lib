@@ -94,6 +94,27 @@ X ~ 2 150 0 100 L 25 25 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Push_MC_L
+#
+DEF ~Push_MC_L S 0 40 N N 1 F N
+F0 "S" 0 -50 40 H V C CNN
+F1 "Push_MC_L" 0 -40 30 H I C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+P 2 0 1 0  -20 100  -20 120 N
+P 2 0 1 0  -20 120  20 120 N
+P 2 0 1 0  0 40  0 20 N
+P 2 0 1 0  0 80  0 60 N
+P 2 0 1 0  0 120  0 100 N
+P 2 0 1 0  20 100  20 120 N
+P 2 0 1 0  50 40  -50 0 N
+P 3 0 1 0  0 60  -30 50  0 40 N
+X ~ 1 -150 0 100 R 25 25 1 1 P
+X ~ 2 150 0 100 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Push_MC_Pos
 #
 DEF ~Push_MC_Pos S 0 40 N N 1 F N
