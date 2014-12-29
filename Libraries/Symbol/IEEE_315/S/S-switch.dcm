@@ -146,6 +146,16 @@ K Dual Inline Switch DIL 9 Positions
 F G:/ApplicationFiles/KiCad/Documents/DataTables/DILSwitches.pdf
 $ENDCMP
 #
+$CMP Temp_BC
+D Termperature Switch, Break Contact
+K Termperature Switch Break Contact
+$ENDCMP
+#
+$CMP Temp_MC
+D Termperature Switch, Make Contact
+K Termperature Switch Make Contact
+$ENDCMP
+#
 $CMP Turn_MC
 D Turn Switch Make Contact, No Automatic Return
 K Turn Switch Make Contact No Automatic Return

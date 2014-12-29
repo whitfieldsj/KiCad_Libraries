@@ -635,6 +635,37 @@ X ~ 10 150 0 100 L 25 25 9 1 P
 ENDDRAW
 ENDDEF
 #
+# Temp_BC
+#
+DEF ~Temp_BC S 0 40 N N 1 F N
+F0 "S" 0 90 40 H V C CNN
+F1 "Temp_BC" 0 40 30 H I C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 -50 -50 40 0 0 0 Ɵ  Italic 0 C C
+P 2 0 1 0  -50 0  60 -40 N
+P 2 0 1 0  50 -50  50 0 N
+X ~ 1 -150 0 100 R 25 25 1 1 P
+X ~ 2 150 0 100 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Temp_MC
+#
+DEF ~Temp_MC S 0 40 N N 1 F N
+F0 "S" 0 -50 40 H V C CNN
+F1 "Temp_MC" 0 -100 30 H I C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 -50 50 40 0 0 0 Ɵ  Italic 0 C C
+P 2 0 1 0  -50 0  50 50 N
+X ~ 1 -150 0 100 R 25 25 1 1 P
+X ~ 2 150 0 100 L 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Turn_MC
 #
 DEF ~Turn_MC S 0 40 N N 1 F N
