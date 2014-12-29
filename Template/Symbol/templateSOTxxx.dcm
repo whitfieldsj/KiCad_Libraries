@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SOT-3
+D SOT-3
+K SOT-3
+$ENDCMP
+#
+$CMP SOT-4
+D SOT-4
+K SOT-4
+$ENDCMP
+#
+$CMP SOT-5
+D SOT-5
+K SOT-5
+$ENDCMP
+#
+$CMP SOT-6
+D SOT-6
+K SOT-6
+$ENDCMP
+#
+$CMP SOT-8
+D SOT-8
+K SOT-8
+$ENDCMP
+#
+#End Doc Library
