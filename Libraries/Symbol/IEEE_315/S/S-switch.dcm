@@ -15,6 +15,16 @@ D Manually Operated Switch
 K Manually Operated Switch
 $ENDCMP
 #
+$CMP Pressure_BC
+D Pressure Switch, Break Contact
+K Pressure Switch Break Contact
+$ENDCMP
+#
+$CMP Pressure_MC
+D Pressure Switch, Make Contact, Automatic Return
+K Pressure Switch Make Contact Automatic Return
+$ENDCMP
+#
 $CMP Pull_MC
 D Pull Switch Make Contact, Automatic Return
 K Pull Switch Make Contact Automatic Return
