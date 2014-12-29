@@ -6,4 +6,10 @@ K Light-Emitting Diode LED
 F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-lightEmittingDiodes_Avago.ods
 $ENDCMP
 #
+$CMP LED_BLINK
+D Light-Emitting Diode, Blinking
+K Light-Emitting Diode LED Blinking
+F G:/ApplicationFiles/KiCad/Documents/DataTables/DS-lightEmittingDiodes_Avago.ods
+$ENDCMP
+#
 #End Doc Library
