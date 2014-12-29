@@ -6,7 +6,7 @@ My KiCad libraries. Symbols are based on IEEE Std 315-1975, and IEC 60617. Land 
 Acknowledgements
 ================
 Some of the libraries and 3D Models have been based on others found the web. My libraries could not be created without the tools and libraries
-created by others and of course the developers of KiCad:
+created by others and of course the KiCad developers and community:
  - http://www.reniemarquet.cjb.net/kicad.htm
  - http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm
  - http://www.compuphase.com/electronics/kicadlibrarian_en.htm
