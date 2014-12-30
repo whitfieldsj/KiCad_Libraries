@@ -30,9 +30,24 @@ D Pull Switch Make Contact, Automatic Return
 K Pull Switch Make Contact Automatic Return
 $ENDCMP
 #
+$CMP Push_BC
+D Push Break Contact, Automatic Return
+K Push Button Break Contact Automatic Return
+$ENDCMP
+#
+$CMP Push_BC_Illum
+D Push Break Contact, Automatic Return, Illuminated
+K Push Button Break Contact Automatic Return Illuminated
+$ENDCMP
+#
 $CMP Push_MC
 D Push Button Make Contact, Automatic Return
 K Push Button Make Contact Automatic Return
+$ENDCMP
+#
+$CMP Push_MC_Illum
+D Push Button Make Contact, Automatic Return, Illuminated
+K Push Button Make Contact Automatic Return Illuminated
 $ENDCMP
 #
 $CMP Push_MC_L
