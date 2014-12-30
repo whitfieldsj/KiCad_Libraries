@@ -22,6 +22,7 @@ General
 =======
 These KiCad libraries were initially created over a period of 3 years and work is ongoing.
 The aim has been to create Symbols and Land Patterns that conform to standards such as IEEE Std 315-1975, IEC 60617 and IPC-7x51.
+ - The term "Standards" is used in the sense of information based on the relevant Standards found on the web.
 
 Symbols
 =======
