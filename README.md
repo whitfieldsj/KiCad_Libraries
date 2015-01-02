@@ -7,7 +7,7 @@ Acknowledgements
 ================
 Some of the libraries and 3D Models have been based on others found the web. My libraries could not be created without the tools and libraries
 created by others and of course the KiCad developers and community:
- - http://www.reniemarquet.cjb.net/kicad.htm
+ - http://www.reniemarquet.com/bibliotecas_en.html
  - http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm
  - http://www.compuphase.com/electronics/kicadlibrarian_en.htm
  - http://kicad.rohrbacher.net/quicklib.php
