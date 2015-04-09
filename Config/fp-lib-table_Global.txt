@@ -320,4 +320,13 @@
   (lib (name VeeCAD_TO)(type Legacy)(uri ${KISYSMOD}\VeeCAD\TO\TO-transistorOutlines.mod)(options "")(descr "VeeCAD TO Dummy Library"))
   # Sandbox Library  
   (lib (name TEST)(type KiCad)(uri ${KISYSMOD}\Nonstandard-IPC-7x51\Sandbox\Sandbox.pretty)(options "")(descr "For Testing"))
+  # walter  
+  (lib (name W_CONN)(type KiCad)(uri ${KISYSMOD}\walter\mod_conn_pc\w_conn_pc.pretty)(options "")(descr "For Testing"))
+  (lib (name W_PLCC)(type KiCad)(uri ${KISYSMOD}\walter\mod_pth_plcc\w_pth_plcc.pretty)(options "")(descr "For Testing"))
+  (lib (name W_RES)(type KiCad)(uri ${KISYSMOD}\walter\mod_pth_resistors\w_pth_resistors.pretty)(options "")(descr "For Testing"))
+  (lib (name W_CAP)(type KiCad)(uri ${KISYSMOD}\walter\mod_smd_cap\w_smd_cap.pretty)(options "")(descr "For Testing"))
+  (lib (name W_IND)(type KiCad)(uri ${KISYSMOD}\walter\mod_smd_inductors\w_smd_inductors.pretty)(options "")(descr "For Testing"))
+  (lib (name W_LED)(type KiCad)(uri ${KISYSMOD}\walter\mod_smd_leds\w_smd_leds.pretty)(options "")(descr "For Testing"))
+  (lib (name W_RES_SMD)(type KiCad)(uri ${KISYSMOD}\walter\mod_smd_resistors\w_smd_resistors.pretty)(options "")(descr "For Testing"))
+  (lib (name W_SW)(type KiCad)(uri ${KISYSMOD}\walter\mod_switch\w_switch.pretty)(options "")(descr "For Testing")) 
   )
