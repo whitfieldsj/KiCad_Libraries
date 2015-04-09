@@ -8,6 +8,10 @@
   (fp_text value HDRRA14W90P254_2X7_1778X508B_M (at 0 9.3 180) (layer Dwgs.User) hide
     (effects (font (size 0.254 0.254) (thickness 0.0254)))
   )
+  (fp_line (start -3 -0.7) (end -3.9 0) (layer F.SilkS) (width 0.2))
+  (fp_line (start -3.9 0) (end -3 0.7) (layer F.SilkS) (width 0.2))
+  (fp_line (start -3 0.7) (end -3 0) (layer F.SilkS) (width 0.2))
+  (fp_line (start -3 0) (end -3 -0.7) (layer F.SilkS) (width 0.2))  
   (fp_line (start -2.54 6.35) (end -2.54 8.89) (layer Dwgs.User) (width 0.2))
   (fp_line (start -2.54 8.89) (end -5.08 8.89) (layer Dwgs.User) (width 0.2))
   (fp_line (start -5.08 8.89) (end -5.08 6.35) (layer Dwgs.User) (width 0.2))

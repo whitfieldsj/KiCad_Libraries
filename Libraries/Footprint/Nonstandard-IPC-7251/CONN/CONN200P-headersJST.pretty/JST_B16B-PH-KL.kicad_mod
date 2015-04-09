@@ -74,7 +74,7 @@
   (pad 7 thru_hole circle (at 0 -3.00228 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 0 -4.99872 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 0 -7.00024 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
-  (pad 1 thru_hole rect (at 0 -15.00632 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 -15.00632) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 -11.00328 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -13.0048 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 0 -9.0043 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))

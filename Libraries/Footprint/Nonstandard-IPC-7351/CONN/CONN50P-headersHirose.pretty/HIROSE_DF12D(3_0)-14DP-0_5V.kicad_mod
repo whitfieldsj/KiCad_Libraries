@@ -9,7 +9,7 @@
   (fp_text value "HIROSE_DF12D(3_0)-14DP-0_5V" (at -2.3 0 90) (layer Dwgs.User) hide
     (effects (font (size 0.254 0.254) (thickness 0.0254)))
   )
-  (fp_text user "NO TRACE" (at 0 0 270) (layer F.SilkS) hide
+  (fp_text user "NO TRACE" (at 0 0 270) (layer Cmts.User) hide
     (effects (font (size 0.4 0.4) (thickness 0.04)))
   )
   (fp_line (start -1.89992 2.90068) (end -1.89992 -2.90068) (layer Dwgs.User) (width 0.2))
@@ -24,8 +24,8 @@
   (fp_line (start -0.39878 -2.10058) (end -0.39878 -2.90068) (layer Dwgs.User) (width 0.2))
   (fp_line (start 1.19888 2.10312) (end -1.19888 2.10312) (layer Dwgs.User) (width 0.2))
   (fp_line (start -1.19888 -2.10058) (end 1.19888 -2.10058) (layer Dwgs.User) (width 0.2))
-  (pad "" np_thru_hole circle (at 1.4986 2.54762 270) (size 0.6 0.6) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
-  (pad "" np_thru_hole circle (at 1.4986 -2.54762 270) (size 0.6 0.6) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at 1.4986 2.54762 270) (size 0.6 0.6) (drill 0.6) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 1.4986 -2.54762 270) (size 0.6 0.6) (drill 0.6) (layers *.Cu *.Mask))
   (pad 14 smd oval (at 1.80086 1.4986 270) (size 0.29 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd oval (at 1.80086 0.99822 270) (size 0.29 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd oval (at 1.80086 0.49784 270) (size 0.29 1.6) (layers F.Cu F.Paste F.Mask))

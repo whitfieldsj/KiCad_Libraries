@@ -1,4 +1,4 @@
-(module HIROSE_DF13-12P-125DS (layer F.Cu)
+(module HIROSE_DF13-12P-125DS (layer F.Cu) (tedit 54E890A6)
   (descr "Hirose DF13 Series Header, DF13-12P-1.25DS, Horizontal")
   (tags "PTH CONN Connector HDR Header Male Hirose DF13")
   (clearance 0.2)
@@ -8,6 +8,10 @@
   (fp_text value HIROSE_DF13-12P-125DS (at 0 0 90) (layer Dwgs.User) hide
     (effects (font (size 0.254 0.254) (thickness 0.0254)))
   )
+  (fp_line (start 0.3 -0.7) (end -0.6 0) (layer F.SilkS) (width 0.2))
+  (fp_line (start -0.6 0) (end 0.3 0.7) (layer F.SilkS) (width 0.2))
+  (fp_line (start 0.3 0.7) (end 0.3 0) (layer F.SilkS) (width 0.2))
+  (fp_line (start 0.3 0) (end 0.3 -0.7) (layer F.SilkS) (width 0.2))
   (fp_line (start 1.6002 -6.00202) (end 2.70002 -6.00202) (layer Dwgs.User) (width 0.2))
   (fp_line (start 2.70002 -6.00202) (end 2.70002 -6.60146) (layer Dwgs.User) (width 0.2))
   (fp_line (start 2.70002 -6.60146) (end 1.6002 -6.60146) (layer Dwgs.User) (width 0.2))

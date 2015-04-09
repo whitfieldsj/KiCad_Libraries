@@ -9,7 +9,7 @@
   (fp_text value "HIROSE_DF12A(3_0)-50DS-0_5V" (at -2.2 0 90) (layer Dwgs.User) hide
     (effects (font (size 0.254 0.254) (thickness 0.0254)))
   )
-  (fp_text user "NO TRACE" (at 0 0 270) (layer F.SilkS) hide
+  (fp_text user "NO TRACE" (at 0 0 270) (layer Cmts.User) hide
     (effects (font (size 0.4 0.4) (thickness 0.04)))
   )
   (fp_line (start 1.80086 7.29996) (end 1.80086 -7.29996) (layer Dwgs.User) (width 0.2))
@@ -76,8 +76,8 @@
   (pad 46 smd oval (at 1.80086 -3.99796 270) (size 0.29 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd oval (at 1.80086 -4.4958 270) (size 0.29 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd oval (at 1.80086 -5.00126 270) (size 0.29 1.6) (layers F.Cu F.Paste F.Mask))
-  (pad "" np_thru_hole circle (at 1.4986 -7.0485 270) (size 0.6 0.6) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
-  (pad "" np_thru_hole circle (at 1.4986 7.0485 270) (size 0.6 0.6) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at 1.4986 -7.0485 270) (size 0.6 0.6) (drill 0.6) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 1.4986 7.0485 270) (size 0.6 0.6) (drill 0.6) (layers *.Cu *.Mask))
   (model "G:/ApplicationFiles/KiCad/Libraries/Footprint/Nonstandard-IPC-7351/CONN/Models/HIROSE/DF12/HIROSE_DF12A(3_0)-50DS-0_5V.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

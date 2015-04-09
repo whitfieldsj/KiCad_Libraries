@@ -9,6 +9,10 @@
   (fp_text value HIROSE_DF13A-7P-125H (at 0 0 90) (layer Dwgs.User) hide
     (effects (font (size 0.254 0.254) (thickness 0.0254)))
   )
+  (fp_line (start 0.9 -0.7) (end 0 0) (layer F.SilkS) (width 0.2))
+  (fp_line (start 0 0) (end 0.9 0.7) (layer F.SilkS) (width 0.2))
+  (fp_line (start 0.9 0.7) (end 0.9 0) (layer F.SilkS) (width 0.2))
+  (fp_line (start 0.9 0) (end 0.9 -0.7) (layer F.SilkS) (width 0.2))
   (fp_line (start 1.79898 -5.19938) (end 1.79898 5.19938) (layer Dwgs.User) (width 0.2))
   (fp_line (start 1.79898 0.00254) (end 3.8005 0.00254) (layer Dwgs.User) (width 0.2))
   (fp_line (start 2.29936 -0.3937) (end 2.29936 -0.79502) (layer Dwgs.User) (width 0.2))

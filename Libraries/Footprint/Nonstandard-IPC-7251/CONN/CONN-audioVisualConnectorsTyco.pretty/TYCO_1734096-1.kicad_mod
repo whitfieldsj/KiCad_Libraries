@@ -1,4 +1,4 @@
-(module TYCO_1734096-1 (layer F.Cu)
+(module TYCO_1734096-1 (layer F.Cu) (tedit 54E8B25A)
   (descr "MiniDin 8 (S-Video), Tyco 1734096-1")
   (tags "PTH CONN Connector MiniDin DIN MINIDIN Tyco")
   (clearance 0.2)
@@ -11,7 +11,6 @@
   (fp_line (start -5.842 -3.937) (end -6.35 -3.937) (layer Dwgs.User) (width 0.2))
   (fp_line (start -5.842 3.937) (end -6.35 3.937) (layer Dwgs.User) (width 0.2))
   (fp_line (start -5.842 -3.937) (end -5.842 3.937) (layer Dwgs.User) (width 0.2))
-  (fp_line (start -6.096 -3.937) (end -6.096 3.937) (layer Dwgs.User) (width 0.2))
   (fp_line (start -6.35 3.937) (end -6.35 -3.937) (layer Dwgs.User) (width 0.2))
   (fp_line (start -6.477 7.112) (end 6.477 7.112) (layer Dwgs.User) (width 0.2))
   (fp_line (start 6.477 7.112) (end 6.477 -7.112) (layer Dwgs.User) (width 0.2))

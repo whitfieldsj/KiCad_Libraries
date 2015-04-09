@@ -9,7 +9,7 @@
   (fp_text value "HIROSE_DF12C(3_0)-50DS-0_5V" (at -2.2 0 90) (layer Dwgs.User) hide
     (effects (font (size 0.254 0.254) (thickness 0.0254)))
   )
-  (fp_text user "NO TRACE" (at 0 0 270) (layer F.SilkS) hide
+  (fp_text user "NO TRACE" (at 0 0 270) (layer Cmts.User) hide
     (effects (font (size 0.4 0.4) (thickness 0.04)))
   )
   (fp_line (start 1.80086 7.29996) (end 1.80086 -7.29996) (layer Dwgs.User) (width 0.2))

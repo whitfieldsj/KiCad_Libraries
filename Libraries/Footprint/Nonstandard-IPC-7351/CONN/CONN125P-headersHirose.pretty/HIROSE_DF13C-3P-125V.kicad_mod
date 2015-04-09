@@ -9,7 +9,7 @@
   (fp_text value HIROSE_DF13C-3P-125V (at -2 0 90) (layer Dwgs.User) hide
     (effects (font (size 0.254 0.254) (thickness 0.0254)))
   )
-  (fp_text user "NO TRACE" (at 0 0 270) (layer F.SilkS) hide
+  (fp_text user "NO TRACE" (at 0 0 270) (layer Cmts.User) hide
     (effects (font (size 0.4 0.4) (thickness 0.04)))
   )
   (fp_line (start 1.69916 0) (end 3.2003 0) (layer Dwgs.User) (width 0.2))

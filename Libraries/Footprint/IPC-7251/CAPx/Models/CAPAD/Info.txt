@@ -1,4 +1,0 @@
-This folder contains only the Model(s) of the Component Body(s).
-
-The Model is used together with the relevant Pins/Leads Model
-found in G:\ApplicationFiles\KiCad\Libraries\Models\Common\PTH_Leads\
